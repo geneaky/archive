@@ -1,4 +1,4 @@
 [[스프링 부트]]
 [[Containerless web application architecture]]
-[[Study/Spring/Boot/opinionated]]
+[[스프링 부트 측 고견]]
 

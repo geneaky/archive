@@ -15,28 +15,11 @@
                 "id": "4fa0a486fdc6a4df",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/Spring/Boot/Containerless web application architecture.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fd20f5de9e0a841a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/Spring/Boot/Spring Boot.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "09dbcc3d2ad7743f",
@@ -119,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study/Spring/Boot/Spring Boot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,13 +159,15 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "fd20f5de9e0a841a",
+  "active": "b367142522d809cb",
   "lastOpenFiles": [
-    "무제 파일 1.md",
+    "Study/Spring/Boot/nnnd.md",
+    "Study/Spring/Boot/test.md",
     "Study/Spring/Boot/Spring Boot.md",
-    "무제 파일.md",
-    "Study/Spring/Boot/Containerless web application architecture.md",
     "Study/Spring/Boot/스프링 부트.md",
+    "Study/Spring/Boot/Containerless web application architecture.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
     "Study/AWS/VPC.md",
     "Study/AWS/AWS Certified Developer Associate.md",
     "Study/AWS/image1.png",

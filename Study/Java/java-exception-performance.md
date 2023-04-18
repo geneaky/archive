@@ -34,5 +34,16 @@ JVM에서 스택에는 프레임이 쌓이는데 예외 발생시 JVM이 어떤 
 	- 프레임은 메서드가 호출될 때마다 만들어지며, 메서드 상태 정보를 저장한다.
 		- 메서드 상태 정보란 Local Variables, Operand Stack, Constant Pool Reference이다.
 		- 로컬 변수 배열은 메서드의 지역변수를 갖는데 primitive 타입은 그냥 프레임에 저장되고 reference는 heap의 레퍼런스를 저장한다.
-		- 
-
+		- 오퍼랜드 스택은 메서드 내 계산을 위한 작업 공간으로 아래와 같은 바이트 코드 메서드를 연산하기 위한 stack 이다.
+``` byte code 
+public int test();
+    Code:
+       0: iconst_4
+       1: istore_1
+       2: iconst_3
+       3: istore_2
+       4: iload_1
+       5: iload_2
+       6: iadd
+       7: ireturn
+```

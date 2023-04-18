@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Study/Spring/boo",
+      "query": "path:Study/Spring/Boot",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 9.45068359375,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.7377222003999304,
-  "close": false
+  "scale": 1.1728662985466958,
+  "close": true
 }

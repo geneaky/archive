@@ -11,28 +11,11 @@
             "id": "a92763b98a4215db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Spring/Boot/스프링 부트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c19a308d424471c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Spring/Boot/Containerless web application architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/Containerless web application architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/Containerless web application architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,33 +118,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study/Spring/Boot/Containerless web application architecture.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false
     }
   },
-  "active": "c19a308d424471c7",
+  "active": "b367142522d809cb",
   "lastOpenFiles": [
     "Study/Spring/Boot/스프링 부트.md",
-    "Study/Spring/Boot/Containerless web application architecture.md",
     "무제 파일.md",
+    "Study/Spring/Boot/Containerless web application architecture.md",
+    "무제 폴더",
     "Study/Spring/JPA/N+1.md",
     "Study/Spring/Boot",
     "Study/Spring/JPA/FetchJoin.md",

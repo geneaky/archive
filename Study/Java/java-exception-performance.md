@@ -47,3 +47,5 @@ public int test();
        6: iadd
        7: ireturn
 ```
+
+Constant Pool Reference는 상수 풀의 참조를 갖는다.

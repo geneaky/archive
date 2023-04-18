@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Spring/JPA/N+1.md",
+                "file": "Study/Spring/Boot/스프링 부트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/JPA/N+1.md",
+                "file": "Study/Spring/Boot/스프링 부트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/JPA/N+1.md",
+                "file": "Study/Spring/Boot/스프링 부트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/JPA/N+1.md"
+                "file": "Study/Spring/Boot/스프링 부트.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "a92763b98a4215db",
   "lastOpenFiles": [
-    "Study/Spring/JPA/FetchJoin.md",
+    "무제 파일.md",
+    "Study/Spring/Boot/스프링 부트.md",
     "Study/Spring/JPA/N+1.md",
+    "Study/Spring/Boot",
+    "Study/Spring/JPA/FetchJoin.md",
     "Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md",
     "Study/Kafka/컨플루언트.md",
     "Study/Kafka/레코드.md",

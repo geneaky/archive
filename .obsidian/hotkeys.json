@@ -18,9 +18,19 @@
   "editor:focus-bottom": [
     {
       "modifiers": [
-        "Alt"
+        "Ctrl",
+        "Shift"
       ],
-      "key": "Tab"
+      "key": "J"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "K"
     }
   ]
 }

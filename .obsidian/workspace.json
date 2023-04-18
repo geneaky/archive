@@ -119,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/Spring/Boot/Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/Spring/Boot/Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study/Spring/Boot/Spring Boot.md"
+              }
             }
           }
         ]
@@ -176,13 +180,13 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "29f3c55efae72586",
+  "active": "fd20f5de9e0a841a",
   "lastOpenFiles": [
+    "무제 파일 1.md",
     "Study/Spring/Boot/Spring Boot.md",
     "무제 파일.md",
     "Study/Spring/Boot/Containerless web application architecture.md",
     "Study/Spring/Boot/스프링 부트.md",
-    "무제 파일 1.md",
     "Study/AWS/VPC.md",
     "Study/AWS/AWS Certified Developer Associate.md",
     "Study/AWS/image1.png",

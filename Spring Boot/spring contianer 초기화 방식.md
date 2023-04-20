@@ -5,3 +5,4 @@ Spring container의 초기화는 refresh()라는 메소드를 통해 일어나�
 	팩토리 메서드를 사용해서 @bean을 지정한 클래스에 @configuration을 붙여 해당 클래스를 spring container 생성시에 등록후 실행시키는 방법
 	 
 	설정정보를 붙인 클래스에 @componentscan을 붙여 해당 클래스를 포함한 패키지부터 시작해서 하위 패키지를 모두 찾아서 @component가 붙은 클래스를 찾아서 bean으로 등록하는 방법
+

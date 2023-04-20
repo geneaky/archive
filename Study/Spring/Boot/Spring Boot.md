@@ -8,8 +8,10 @@
 * 비기능적 기술(내장형 서버, 보안, 메트릭, 상태 체크, 외부 설정 방식등) 제공
 * 코드 생성이나 XML 설정을 필요로 하지 않음
 
-[[Containerless web application architecture]]
-
 [[스프링 부트 측 고견]]
 
-[[Study/Spring/Boot/ServletContainer동작방식]]
+- [[Containerless web application architecture]]
+	-  [[ServletContainer동작방식]]
+	- [[ServletContainer와SpringContainer]]
+
+

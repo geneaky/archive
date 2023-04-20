@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/Spring/Boot/ServletContainer동작방식.md",
+                    "file": "Study/Spring/Boot/ServletContainer와SpringContainer.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/ServletContainer동작방식.md",
+                "file": "Study/Spring/Boot/ServletContainer와SpringContainer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/ServletContainer동작방식.md",
+                "file": "Study/Spring/Boot/ServletContainer와SpringContainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/Boot/ServletContainer동작방식.md"
+                "file": "Study/Spring/Boot/ServletContainer와SpringContainer.md"
               }
             }
           }
@@ -171,10 +171,11 @@
   },
   "active": "62c47bcd939ff38f",
   "lastOpenFiles": [
-    "Study/Spring/Boot/Containerless web application architecture.md",
-    "Study/Spring/Boot/ServletContainer동작방식.md",
     "Study/Spring/Boot/Spring Boot.md",
     "Study/Spring/Boot/스프링 부트 측 고견.md",
+    "Study/Spring/Boot/ServletContainer동작방식.md",
+    "Study/Spring/Boot/Containerless web application architecture.md",
+    "Study/Spring/Boot/ServletContainer와SpringContainer.md",
     "Study/Spring/Boot/스프링 부트.md",
     "무제 파일.md",
     "Study/Java/java-exception-performance.md",

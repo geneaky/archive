@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/Spring/Boot/DispatcherServlet.md",
+                    "file": "Study/Spring/Boot/Spring Boot.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/DispatcherServlet.md",
+                "file": "Study/Spring/Boot/Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/DispatcherServlet.md",
+                "file": "Study/Spring/Boot/Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/Boot/DispatcherServlet.md"
+                "file": "Study/Spring/Boot/Spring Boot.md"
               }
             }
           }
@@ -171,7 +171,9 @@
   },
   "active": "62c47bcd939ff38f",
   "lastOpenFiles": [
+    "Spring Boot/spring contianer 초기화 방식.md",
     "Study/Spring/Boot/Spring Boot.md",
+    "Spring Boot",
     "Study/Spring/Boot/DispatcherServlet.md",
     "pwd.md",
     "Study/Spring/Boot/ServletContainer와SpringContainer.md",

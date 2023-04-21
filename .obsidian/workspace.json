@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spring Boot/spring contianer 초기화 방식.md",
+                    "file": "Study/Spring/Boot/spring container.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/spring contianer 초기화 방식.md",
+                "file": "Study/Spring/Boot/spring container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/spring contianer 초기화 방식.md",
+                "file": "Study/Spring/Boot/spring container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/spring contianer 초기화 방식.md"
+                "file": "Study/Spring/Boot/spring container.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   "active": "62c47bcd939ff38f",
   "lastOpenFiles": [
     "Study/Spring/Boot/Spring Boot.md",
+    "Study/Spring/Boot/spring container.md",
     "Spring Boot/spring contianer 초기화 방식.md",
     "Spring Boot",
     "Study/Spring/Boot/DispatcherServlet.md",

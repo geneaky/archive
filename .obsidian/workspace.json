@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/spring container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/spring container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study/Spring/Boot/spring container.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,10 +165,10 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "62c47bcd939ff38f",
+  "active": "6e696553d79da4d3",
   "lastOpenFiles": [
-    "Study/Spring/Boot/Spring Boot.md",
     "Study/Spring/Boot/spring container.md",
+    "Study/Spring/Boot/Spring Boot.md",
     "Study/Spring/Boot/spring contianer 초기화 방식.md",
     "Spring Boot",
     "Study/Spring/Boot/DispatcherServlet.md",

@@ -15,3 +15,7 @@ spring container의 관리하는 빈은 크게  애플리케이션 빈과 컨테
 bean을 생성할때 의존하는 bean이 여러 bean에서도 의존성 주입이 되는 경우라면 default값으로 사용해도 무방하지만 그게 아니라 등록하는 bean이 어떠한 의존성이 없거나 의존하는 bean이 해당 bean과의 의존성만 가지고 있다고 굳이 proxy bean으로 등록할 필요없이 바로 객체를 bean으로 등록해도되기 때문에 false로 지정해도된다.
 
 spring container에서 bean으로 등록된 오브젝트는 bean name이 부여가되는데  기본적으로 method명이 bean의 이름으로 따라간다 
+
+import selector를 사용해서 자동 구성 configuration class를 로딩하는 방식으로 먼저 user 구성 정보를 로딩한 이후에  자동 구성정보를 로딩하기 위함이다.
+-> user 구성 정보에서 우선적으로 등록된 bean이 없을시에 자동 구성정보에서 로딩을 하게된다. 
+

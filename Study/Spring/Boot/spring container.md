@@ -10,6 +10,6 @@ spring container의 관리하는 빈은 크게  애플리케이션 빈과 컨테
 스프링부트에서 애플리케이션 빈은 사용자 구성정보로, 컨테이너 인프라스트럭처 빈은 자동 구성정보로 구분을 한다
 
 
-@Configuration 설정이 붙은 클래스가 application contex에 등록되었을 때 등록 방식은
-
+@Configuration의 proxyBeanMethods()가 default값인 true로 설정되어 있을 때는 클래스를 bean으로 
+등록할때 해당 클래스가 직접 bean으로 등록되는 것이 아니라 proxy가 bean으로 등록된다. 
 

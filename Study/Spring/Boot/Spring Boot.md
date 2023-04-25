@@ -16,6 +16,6 @@
 	- [[DispatcherServlet]]
 	- [[spring contianer 초기화 방식]]
 	- [[spring container]]
-	- 
+	- [[외부설정 자동구성]]
 
 

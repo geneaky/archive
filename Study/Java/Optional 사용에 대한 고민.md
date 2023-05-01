@@ -27,7 +27,7 @@ null을 사용하는 것과 같은 의미로 Optional을 값이 없다는 의미
 Optional의 의도된 사용은 주로 return type이다.
 
 type에 대한 인스턴스를 얻은 후 존재한다면 값을 추출하거나 존재하지 않다면 대안이 되는 행위를 제공할 수 있다.
-라이브러리 메서드가 반환할 겨로가값이 `없음` 을 명백하게 표현할 필요가 있는 곳에서 제한적으로 사용할 수 있는 메커니즘을 제공하는 것이 Optional을 만든 의도임
+라이브러리 메서드가 반환할 결과값이 `없음` 을 명백하게 표현할 필요가 있는 곳에서 제한적으로 사용할 수 있는 메커니즘을 제공하는 것이 Optional을 만든 의도임
 
 
 
@@ -39,6 +39,8 @@ type에 대한 인스턴스를 얻은 후 존재한다면 값을 추출하거나
 optional 생성에 대한 비용기 발생하기 때문에 단지 값을 얻을 목적이라면 null 비교를 쓸 것.
 컬렉션의 경우는 빈 컬렉션을 반환하는 것이 좋을때가 많다 그래서 굳이 컬렉션을 optional로 감싸서 반환하지 말고 비어있는 컬렉션을 반환할 것.
 Optional에 담기는 값이 int, long, double등이라면 boxing/unboxing이 발생하는 `Optional<?>` 말고 OptionalInt , OptinalLong을 사용할 것.
+
+[참조](https://dzone.com/articles/using-optional-correctly-is-not-optional)
 
 
 

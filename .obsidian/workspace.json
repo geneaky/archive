@@ -13,12 +13,12 @@
             "dimension": 59.885714285714286,
             "children": [
               {
-                "id": "a094572b8fafde09",
+                "id": "25dbb0c7bb11d1c7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/Java/Optional 사용에 대한 고민.md",
+                    "file": "Study/Spring/WEB/무제 파일.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/Optional 사용에 대한 고민.md",
+                "file": "Study/Spring/WEB/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/Optional 사용에 대한 고민.md",
+                "file": "Study/Spring/WEB/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/Optional 사용에 대한 고민.md"
+                "file": "Study/Spring/WEB/무제 파일.md"
               }
             }
           }
@@ -169,10 +169,12 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "a094572b8fafde09",
+  "active": "25dbb0c7bb11d1c7",
   "lastOpenFiles": [
-    "무제 파일.md",
     "Study/Java/Optional 사용에 대한 고민.md",
+    "Study/Spring/WEB/무제 파일.md",
+    "Study/Spring/WEB",
+    "무제 파일.md",
     "Study/Spring/Boot/외부설정 자동구성.md",
     "Study/Spring/Boot/Spring Boot.md",
     "Study/Boot",

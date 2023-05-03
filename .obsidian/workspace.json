@@ -184,6 +184,7 @@
   },
   "active": "b367142522d809cb",
   "lastOpenFiles": [
+    "Study/Infra",
     "Study/Spring/WEB/@RequestParam 생략 여부.md",
     "Study/Java/present vs exist.md",
     "Study/Java/Optional 사용에 대한 고민.md",
@@ -215,7 +216,6 @@
     "Study/Spring/Boot",
     "Study/Spring/JPA/FetchJoin.md",
     "Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md",
-    "Study/Kafka/컨플루언트.md",
-    "Study/Kafka/레코드.md"
+    "Study/Kafka/컨플루언트.md"
   ]
 }

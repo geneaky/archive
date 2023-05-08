@@ -35,9 +35,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "ad68e56123aab753",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Spring/JPA/Query Method.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "e5313176794707db",
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/DevOps/Docker/docker_network.md",
+                "file": "Study/Spring/JPA/Query Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/DevOps/Docker/docker_network.md",
+                "file": "Study/Spring/JPA/Query Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/DevOps/Docker/docker_network.md"
+                "file": "Study/Spring/JPA/Query Method.md"
               }
             }
           }
@@ -182,8 +194,10 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "b367142522d809cb",
+  "active": "ad68e56123aab753",
   "lastOpenFiles": [
+    "Study/DevOps/Docker/docker_network.md",
+    "Study/Spring/JPA/Query Method.md",
     "Study/CS",
     "Study/Java/present vs exist.md",
     "Study/DNS",
@@ -216,7 +230,6 @@
     "Study/Spring/JPA/N+1.md",
     "Study/Spring/Boot",
     "Study/Spring/JPA/FetchJoin.md",
-    "Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md",
-    "Study/Kafka/컨플루언트.md"
+    "Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md"
   ]
 }

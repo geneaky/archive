@@ -11,4 +11,12 @@ rabbitmq 모니터링시 key metircs를 찾아보았다
 
 #### Node
 
+- file descriptor used : resource
+- network sockets : resource
+- disk space : resource
+- memory : resource
+
+
+#### Connection
+
 - 

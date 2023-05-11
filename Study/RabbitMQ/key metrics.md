@@ -5,3 +5,10 @@ rabbitmq 모니터링시 key metircs를 찾아보았다
 
 #### Exchange metrics
 
+- message published in : throupghput
+- message unroutable : errors
+
+
+#### Node
+
+- 

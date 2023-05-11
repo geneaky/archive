@@ -19,9 +19,10 @@ rabbitmq 모니터링시 key metircs를 찾아보았다
 
 #### Connection
 
-
+- data rates (number of octest or bytes sent/received within a TCP connection per secon) : resouce
 
 #### Queue
+
 
 
 특정 threshold(임계값) 밑으로 떨어지는 상태에 대한 모니터링을 자주 언급

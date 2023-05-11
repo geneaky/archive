@@ -30,14 +30,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/CS/PEM,CER,CRT,CSR.md",
+                    "file": "Study/RabbitMQ/rabbitmq.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4312e6a9c7adc597",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/RabbitMQ/key metrics.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "e5313176794707db",
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/CS/PEM,CER,CRT,CSR.md",
+                "file": "Study/RabbitMQ/key metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/CS/PEM,CER,CRT,CSR.md",
+                "file": "Study/RabbitMQ/key metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/CS/PEM,CER,CRT,CSR.md"
+                "file": "Study/RabbitMQ/key metrics.md"
               }
             }
           }
@@ -182,10 +194,12 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "561c965743e4bda9",
+  "active": "4312e6a9c7adc597",
   "lastOpenFiles": [
-    "Study/DevOps/Terraform.md",
+    "Study/RabbitMQ/rabbitmq.md",
+    "Study/RabbitMQ/key metrics.md",
     "Study/CS/PEM,CER,CRT,CSR.md",
+    "Study/DevOps/Terraform.md",
     "Study/CS",
     "Study/Grafana",
     "Study/Spring/JPA/Query Method.md",
@@ -219,9 +233,7 @@
     "Study/Spring/Boot/nnnd.md",
     "무제 파일 1.md",
     "Study/AWS/VPC.md",
-    "Study/AWS/AWS Certified Developer Associate.md",
     "Study/AWS/image1.png",
-    "무제 폴더",
-    "Study/Spring/JPA/N+1.md"
+    "무제 폴더"
   ]
 }

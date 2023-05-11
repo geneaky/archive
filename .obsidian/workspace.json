@@ -18,13 +18,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/Spring/JPA/Query Method.md",
+                    "file": "Study/DevOps/Terraform.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "561c965743e4bda9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "e5313176794707db",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md",
+                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md",
+                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md"
+                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md"
               }
             }
           }
@@ -169,10 +182,14 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "ad68e56123aab753",
+  "active": "561c965743e4bda9",
   "lastOpenFiles": [
-    "Study/Spring/JPA/image/2.png",
+    "Study/DevOps/Terraform.md",
+    "Study/CS/PEM,CER,DER.CRT,CSR.md",
+    "Study/CS",
+    "Study/Grafana",
     "Study/Spring/JPA/Query Method.md",
+    "Study/Spring/JPA/image/2.png",
     "Study/Spring/JPA/image/1.png",
     "Study/Spring/WEB/@RequestParam 생략 여부.md",
     "Study/DevOps/Docker/docker_network.md",
@@ -205,8 +222,6 @@
     "Study/AWS/AWS Certified Developer Associate.md",
     "Study/AWS/image1.png",
     "무제 폴더",
-    "Study/Spring/JPA/N+1.md",
-    "Study/Spring/Boot",
-    "Study/Spring/JPA/FetchJoin.md"
+    "Study/Spring/JPA/N+1.md"
   ]
 }

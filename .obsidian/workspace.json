@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
+                    "file": "Study/CS/PEM,CER,CRT,CSR.md",
                     "mode": "source",
                     "source": false
                   }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
+                "file": "Study/CS/PEM,CER,CRT,CSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md",
+                "file": "Study/CS/PEM,CER,CRT,CSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/CS/PEM,CER,DER.CRT,CSR.md"
+                "file": "Study/CS/PEM,CER,CRT,CSR.md"
               }
             }
           }
@@ -185,7 +185,7 @@
   "active": "561c965743e4bda9",
   "lastOpenFiles": [
     "Study/DevOps/Terraform.md",
-    "Study/CS/PEM,CER,DER.CRT,CSR.md",
+    "Study/CS/PEM,CER,CRT,CSR.md",
     "Study/CS",
     "Study/Grafana",
     "Study/Spring/JPA/Query Method.md",

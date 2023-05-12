@@ -13,79 +13,7 @@
             "dimension": 59.885714285714286,
             "children": [
               {
-                "id": "ad68e56123aab753",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/DevOps/Terraform.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "561c965743e4bda9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/RabbitMQ/rabbitmq.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4312e6a9c7adc597",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/Monitoring/rabbitmq key metrics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bb998f1094c6ca83",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/DevOps/Docker/docker_network.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ea178b0c6e566c4b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/DevOps/Docker/volume symbolic link.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "390d7314e8f6875b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/Spring/JPA/FetchJoin.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e324f70f6ef5a414",
+                "id": "ad6e13e3f483d6ae",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -95,33 +23,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "80c7b41c011abaee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/TDD/테스트 메서드간 강결합.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ad6e13e3f483d6ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 8
+            ]
           },
           {
             "id": "e5313176794707db",
@@ -205,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md"
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md"
               }
             }
           }
@@ -268,19 +171,19 @@
   },
   "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
-    "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
     "Study/TDD/테스트 메서드간 강결합.md",
-    "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
-    "Study/TDD",
-    "Study/Spring/JPA/FetchJoin.md",
-    "Study/Spring/JPA/N+1.md",
-    "Study/Monitoring/Grafana/ssl 설정.md",
     "Study/DevOps/Docker/volume symbolic link.md",
-    "Study/Monitoring/Grafana",
     "Study/DevOps/Docker/docker_network.md",
-    "Study/Monitoring/jvm key metrics.md",
     "Study/Monitoring/rabbitmq key metrics.md",
     "Study/RabbitMQ/rabbitmq.md",
+    "Study/Spring/JPA/FetchJoin.md",
+    "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
+    "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+    "Study/TDD",
+    "Study/Spring/JPA/N+1.md",
+    "Study/Monitoring/Grafana/ssl 설정.md",
+    "Study/Monitoring/Grafana",
+    "Study/Monitoring/jvm key metrics.md",
     "Study/CS/PEM,CER,CRT,CSR.md",
     "Study/DevOps/Terraform.md",
     "Study/CS",

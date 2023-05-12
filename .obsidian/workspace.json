@@ -71,9 +71,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "390d7314e8f6875b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Monitoring/Grafana/ssl 설정.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "e5313176794707db",
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/DevOps/Docker/volume symbolic link.md",
+                "file": "Study/Monitoring/Grafana/ssl 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/DevOps/Docker/volume symbolic link.md",
+                "file": "Study/Monitoring/Grafana/ssl 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/DevOps/Docker/volume symbolic link.md"
+                "file": "Study/Monitoring/Grafana/ssl 설정.md"
               }
             }
           }
@@ -218,10 +230,12 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "ea178b0c6e566c4b",
+  "active": "390d7314e8f6875b",
   "lastOpenFiles": [
-    "Study/DevOps/Docker/docker_network.md",
     "Study/DevOps/Docker/volume symbolic link.md",
+    "Study/Monitoring/Grafana/ssl 설정.md",
+    "Study/Monitoring/Grafana",
+    "Study/DevOps/Docker/docker_network.md",
     "Study/Monitoring/jvm key metrics.md",
     "Study/Monitoring/rabbitmq key metrics.md",
     "Study/RabbitMQ/rabbitmq.md",
@@ -256,8 +270,6 @@
     "Study/Java/java-exception-performance.md",
     "Study/Java",
     "Study/Spring/Boot/test.md",
-    "Study/Spring/Boot/nnnd.md",
-    "Study/AWS/image1.png",
-    "무제 폴더"
+    "Study/AWS/image1.png"
   ]
 }

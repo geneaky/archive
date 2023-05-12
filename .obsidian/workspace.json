@@ -268,8 +268,8 @@
   },
   "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
-    "Study/TDD/테스트 메서드간 강결합.md",
     "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+    "Study/TDD/테스트 메서드간 강결합.md",
     "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/TDD",
     "Study/Spring/JPA/FetchJoin.md",

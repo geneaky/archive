@@ -12,3 +12,4 @@ manytoone에서 one entity를 가지는 many entity가 2개 이상인 상황에�
 
 생각해보면 @OneToMany에 cascade를 거는게 많이 발생하는 요구사항 처리에 좋을듯 싶기도한데 
 단방향 연관관계를 default로 가져가는 상황에서 cascade remove 하나 하겠다고 @OneToMany를 쓰는게 맞나 싶기도하다
+또 @OneToMany걸어서 cascade삭제하려면 Many쪽 pk를 가진 다른 entity가 있으면 삭제가 번거로움 연관관계 끊어주거나 아니면 many쪽에서 또 @OneToMany cascade 삭제를 걸어서 지워주는,,,

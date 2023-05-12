@@ -107,9 +107,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "ad6e13e3f483d6ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           },
           {
             "id": "e5313176794707db",
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/TDD/테스트 메서드간 강결합.md",
+                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/TDD/테스트 메서드간 강결합.md",
+                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/TDD/테스트 메서드간 강결합.md"
+                "file": "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md"
               }
             }
           }
@@ -254,10 +266,11 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "80c7b41c011abaee",
+  "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
-    "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/TDD/테스트 메서드간 강결합.md",
+    "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
+    "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/TDD",
     "Study/Spring/JPA/FetchJoin.md",
     "Study/Spring/JPA/N+1.md",
@@ -293,7 +306,6 @@
     "pwd.md",
     "Study/Spring/Boot/ServletContainer와SpringContainer.md",
     "Study/Spring/Boot/스프링 부트 측 고견.md",
-    "Study/Spring/Boot/ServletContainer동작방식.md",
     "Study/AWS/image1.png"
   ]
 }

@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/Spring/JPA/Query Method.md",
+                    "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
                     "mode": "source",
                     "source": false
                   }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md",
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md",
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/JPA/Query Method.md"
+                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md"
               }
             }
           }
@@ -169,18 +169,19 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "ad6e13e3f483d6ae",
+  "active": "b367142522d809cb",
   "lastOpenFiles": [
+    "Study/Spring/JPA/N+1.md",
+    "Study/Spring/JPA/Query Method.md",
+    "Study/Spring/JPA/FetchJoin.md",
     "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/TDD/테스트 메서드간 강결합.md",
     "Study/DevOps/Docker/volume symbolic link.md",
     "Study/DevOps/Docker/docker_network.md",
     "Study/Monitoring/rabbitmq key metrics.md",
     "Study/RabbitMQ/rabbitmq.md",
-    "Study/Spring/JPA/FetchJoin.md",
     "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
     "Study/TDD",
-    "Study/Spring/JPA/N+1.md",
     "Study/Monitoring/Grafana/ssl 설정.md",
     "Study/Monitoring/Grafana",
     "Study/Monitoring/jvm key metrics.md",
@@ -188,7 +189,6 @@
     "Study/DevOps/Terraform.md",
     "Study/CS",
     "Study/Monitoring",
-    "Study/Spring/JPA/Query Method.md",
     "Study/Spring/JPA/image/2.png",
     "Study/Spring/JPA/image/1.png",
     "Study/Spring/WEB/@RequestParam 생략 여부.md",

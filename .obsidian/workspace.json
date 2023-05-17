@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Spring/Boot/Enum Response.md",
+                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/Boot/Enum Response.md",
+                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/Boot/Enum Response.md",
+                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/Boot/Enum Response.md"
+                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
-    "Study/Database/MySQL/Consistent Nonlocking Reads.md",
     "Study/Spring/Boot/Enum Response.md",
+    "Study/Database/MySQL/Consistent Nonlocking Reads.md",
     "Study/Database/Transaction.md",
     "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/Spring/JPA/JPA.md",

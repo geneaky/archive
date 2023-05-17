@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fd5b15159e8cedea",
-        "type": "split",
+        "id": "09dbcc3d2ad7743f",
+        "type": "tabs",
         "children": [
           {
-            "id": "09dbcc3d2ad7743f",
-            "type": "tabs",
-            "dimension": 59.885714285714286,
-            "children": [
-              {
-                "id": "ad6e13e3f483d6ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "ad6e13e3f483d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Database/MySQL/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "e5313176794707db",
-            "type": "tabs",
-            "dimension": 40.114285714285714,
-            "children": [
-              {
-                "id": "6e696553d79da4d3",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1d293908c806434d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
+                "file": "Study/Database/MySQL/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
+                "file": "Study/Database/MySQL/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md"
+                "file": "Study/Database/MySQL/무제 파일.md"
               }
             }
           }
@@ -171,7 +156,11 @@
   },
   "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
+    "Study/Database/Transaction.md",
+    "Study/Database/MySQL/무제 파일.md",
     "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
+    "Study/Spring/JPA/JPA.md",
+    "Study/Spring/Boot/Spring Boot.md",
     "Study/Spring/JPA/N+1.md",
     "Study/Spring/JPA/Query Method.md",
     "Study/Spring/JPA/FetchJoin.md",
@@ -200,15 +189,11 @@
     "Study/Spring/WEB",
     "무제 파일.md",
     "Study/Spring/Boot/외부설정 자동구성.md",
-    "Study/Spring/Boot/Spring Boot.md",
     "Study/Boot",
     "Study/Spring/Boot/spring container.md",
     "Study/Spring/Boot/spring contianer 초기화 방식.md",
     "Spring Boot",
     "Study/Spring/Boot/DispatcherServlet.md",
-    "pwd.md",
-    "Study/Spring/Boot/ServletContainer와SpringContainer.md",
-    "Study/Spring/Boot/스프링 부트 측 고견.md",
     "Study/AWS/image1.png"
   ]
 }

@@ -8,5 +8,5 @@ isolation level이 default인 repeatable_read인 경우 동일 트랜잭션에�
 
 inno db에서는 consistent read가 read committed , repeatable read 격리레벨에서 기본 동작이다.
 
-일관된 읽기에서는 조회시 락을 걸지 않아서 테이블에 접근하는 모든 세션에서 자유롭게 접근하여 수정을 할 수 있다. -> 
+일관된 읽기에서는 조회시 락을 걸지 않아서 테이블에 접근하는 모든 세션에서 자유롭게 접근하여 수정을 할 수 있다.
 

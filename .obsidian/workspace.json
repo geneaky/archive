@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
+                "file": "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
+                "file": "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md",
+                "file": "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Database/MySQL/Consistent Nonlocking Reads.md"
+                "file": "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "ad6e13e3f483d6ae",
   "lastOpenFiles": [
-    "Study/Spring/Boot/Enum Response.md",
     "Study/Database/MySQL/Consistent Nonlocking Reads.md",
+    "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md",
+    "Study/Spring/Boot/Enum Response.md",
     "Study/Database/Transaction.md",
     "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
     "Study/Spring/JPA/JPA.md",
@@ -192,7 +193,6 @@
     "Study/Spring/Boot/외부설정 자동구성.md",
     "Study/Boot",
     "Study/Spring/Boot/spring container.md",
-    "Study/Spring/Boot/spring contianer 초기화 방식.md",
     "Spring Boot",
     "Study/AWS/image1.png"
   ]

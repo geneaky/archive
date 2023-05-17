@@ -17,4 +17,8 @@ result set에 포함되지않는 다면 잠금 해제한다.(주어진where절�
 innodb에서 잠금 읽기에 경우 고유 인덱스의 경우는 발견된 인덱스 레코드만 잠그고 gap은 잠그지 않는데
 고유하지 않은 인덱스의 경우는 gap, next key 잠금을 통해 다른 세션에서 검색 범위에 값을 삽입하는 것을 차단한다. 
 
-update where 문은 배타적인 next key 락을 모든 레코드에
+update where 문은 배타적인 next key 락을 모든 레코드에 건다(unique index record에만)
+update문이 clustered index record를 수정할때 secondary index 레코드에 암시적 잠금이 적용되고 , update 작업은 새 secondary index record를 삽입하기 전 중복 확인 스캔을 수행할때 와 새 secondary index record를 삽입할때 영향을 받는 secondary index record에 대한 shared lock을 건다.
+
+만약 foreign key 제약조건이 선언된 테이블이 있으면, insert, update, delete처럼 제약조건 상태가 shared record-level lock이 레코드에 걸렸는지 확인하기를 요구한다.
+

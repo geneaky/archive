@@ -8,4 +8,9 @@ WebSocketHttpRequestHandler는 DefaultHandshakeHandler를 사용해서 http -> w
 
 client <- StandardWebSocketSession -> server
 
-이후 DefaultStompSession 객체로 세션이 수립되는데 
+이후 DefaultStompSession 객체로 브로커와 stomp session이 수립이 된다. 
+
+그러면
+
+client <- StandardWebSocketSession -> server <- DefaultStompSession -> broker
+이런 

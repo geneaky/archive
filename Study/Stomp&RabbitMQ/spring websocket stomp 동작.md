@@ -10,7 +10,8 @@ client <- StandardWebSocketSession -> server
 
 이후 DefaultStompSession 객체로 브로커와 stomp session이 수립이 된다. 
 
-그러면
-
 client <- StandardWebSocketSession -> server <- DefaultStompSession -> broker
-이런 
+이런 구조에서 동작을 하게된다.
+
+클라이언트와 서버가 stomp 세션을 맺으면 일단 websocket session또한 가지고 있을 텐데 websocket을 통해 전달받은 메시지를 브로커로 보내고나서 성공적으로 보냈다는 응답을 reciept로 받는지에 대한 테스트가 필요.
+

@@ -7,3 +7,5 @@ WebSocketHttpRequestHandler는 DefaultHandshakeHandler를 사용해서 http -> w
 이것들 모두 다 끝나면 StandardWebSocketSession이라는게 생성됨
 
 client <- StandardWebSocketSession -> server
+
+이후 DefaultStompSession 객체로 세션이 수립되는데 

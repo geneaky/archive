@@ -18,3 +18,4 @@ DefaultStompSession에서 WebSocketSession에서 받은 message를 broker로 sen
 session 연결시에 autoReciept를 true로 한경우는 내부적으로 atomic integer값을 사용해서 receiptId를 할당한다. -> 이 증가 여부를 통해 3이라는 reciept를 받는다면 2,1이라는 이전 reciept는 서버에 정상적으로 전달 받았다는 것을 의미한다. [stomp-protocol-receipt](https://stomp.github.io/stomp-specification-1.2.html#RECEIPT)
 
 이값 지정되어 있어도 native haeder에 별도로 reciept를 지정한 경우 해당 값이 receiptId로 전달받게되는데 구현시에 커스텀하게 이 값을 사용하여 동일한 메시지에 대한 receiptId를 체크해서 비동기적으로 동일한 메시지가 처리되었을때 어떤 메시지가 우선적으로 처리되었는지와 같은 처리가 가능하다.
+ddd

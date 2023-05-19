@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "PersonalRecord/",
+  "gitDir": "PersonalRecord/.git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,

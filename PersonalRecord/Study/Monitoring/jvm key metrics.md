@@ -1,0 +1,4 @@
+
+- heap memory
+- gc
+- thread

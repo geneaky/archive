@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "31015a4be2d61727",
+    "id": "2d14055918f02d40",
     "type": "split",
     "children": [
       {
-        "id": "09dbcc3d2ad7743f",
+        "id": "4a607fc7fb2b6183",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6e13e3f483d6ae",
+            "id": "c4e961716b128101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cf8330ba52704a28",
+    "id": "120c3010d17c18a6",
     "type": "split",
     "children": [
       {
-        "id": "889124a520baa52a",
+        "id": "c29645839f07d3fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b367142522d809cb",
+            "id": "631136ca12ff4675",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cef73ee746752eb5",
+            "id": "272cf3ed6713616b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "8363e1a76c14ce9f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d293908c806434d",
+            "id": "4a39a0cc6a3964e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 300
   },
   "right": {
-    "id": "f653f27bb15b5f9f",
+    "id": "756dea82979697ee",
     "type": "split",
     "children": [
       {
-        "id": "9690a9726168d810",
+        "id": "e0a1ddcbb584f52e",
         "type": "tabs",
         "children": [
           {
-            "id": "b994c96dcd8213bb",
+            "id": "a5fdfe87f49768e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "1f0976fd97e879ac",
+            "id": "5572cb008d365654",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8ce722d19483615b",
+            "id": "a1ee94ba954db3c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +120,12 @@
             }
           },
           {
-            "id": "1177674dcb85ef1e",
+            "id": "ede15978c8d91f6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md"
+                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md"
               }
             }
           }
@@ -147,53 +139,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "graph:그래프 뷰 열기": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ad6e13e3f483d6ae",
-  "lastOpenFiles": [
-    "Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md",
-    "Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
-    "Study/Database/MySQL/Locks Set by Different SQL Statements in InnoDB.md",
-    "Study/Database/MySQL/Consistent Nonlocking Reads.md",
-    "Study/Spring/Boot/Enum Response.md",
-    "Study/Database/Transaction.md",
-    "Study/Spring/JPA/@ManyToOne & @OneToMany cacade.md",
-    "Study/Spring/JPA/JPA.md",
-    "Study/Spring/Boot/Spring Boot.md",
-    "Study/Spring/JPA/N+1.md",
-    "Study/Spring/JPA/Query Method.md",
-    "Study/Spring/JPA/FetchJoin.md",
-    "Study/TDD/테스트 메서드간 강결합.md",
-    "Study/DevOps/Docker/volume symbolic link.md",
-    "Study/DevOps/Docker/docker_network.md",
-    "Study/Monitoring/rabbitmq key metrics.md",
-    "Study/RabbitMQ/rabbitmq.md",
-    "Study/TDD/테스트는 구현이 아닌 결과를 검증한다.md",
-    "Study/TDD",
-    "Study/Monitoring/Grafana/ssl 설정.md",
-    "Study/Monitoring/Grafana",
-    "Study/Monitoring/jvm key metrics.md",
-    "Study/CS/PEM,CER,CRT,CSR.md",
-    "Study/DevOps/Terraform.md",
-    "Study/CS",
-    "Study/Monitoring",
-    "Study/Spring/JPA/image/2.png",
-    "Study/Spring/JPA/image/1.png",
-    "Study/Spring/WEB/@RequestParam 생략 여부.md",
-    "Study/Spring/JPA/image",
-    "Study/CS",
-    "Study/Java/present vs exist.md",
-    "Study/DNS",
-    "Study/Java/Optional 사용에 대한 고민.md",
-    "Study/Spring/WEB",
-    "무제 파일.md",
-    "Study/Boot",
-    "Spring Boot",
-    "Study/AWS/image1.png"
-  ]
+  "active": "c4e961716b128101",
+  "lastOpenFiles": []
 }

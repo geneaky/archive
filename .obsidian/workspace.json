@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalPlanner/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalPlanner/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+                "file": "PersonalPlanner/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md"
+                "file": "PersonalPlanner/test.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c4e961716b128101",
   "lastOpenFiles": [
+    "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md",
+    "PersonalPlanner/test.md",
     "PersonalRecord/PersonalRecord",
-    "PersonalRecord/Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md",
-    "PersonalRecord/Study/Stomp&RabbitMQ/spring websocket stomp session연결과 receipt frame.md"
+    "PersonalRecord/Study/Stomp&RabbitMQ/Spring Websocket Stomp RabbitMQ.md"
   ]
 }

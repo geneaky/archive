@@ -11,3 +11,5 @@ client <- StandardWebSocketSession -> server
 이후 DefaultStompSession 객체로 브로커와 stomp session이 수립이 된다. 
 
 1. send frame으로 작성된 메시지가 서버에서 rabbitmq stomp plugin으로 전달될때 custom header를 사용하여 필요한 정보를 message에 포함시켜 전달하는 방식을 통해 메시지를 구분할 수 있다.
+
+SubProtocolWebSocketHandler 내부에서 SubProtocolHandler 집합 

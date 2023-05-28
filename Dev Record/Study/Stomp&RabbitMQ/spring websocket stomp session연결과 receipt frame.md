@@ -12,4 +12,4 @@ client <- StandardWebSocketSession -> server
 
 1. send frame으로 작성된 메시지가 서버에서 rabbitmq stomp plugin으로 전달될때 custom header를 사용하여 필요한 정보를 message에 포함시켜 전달하는 방식을 통해 메시지를 구분할 수 있다.
 
-SubProtocolWebSocketHandler 내부에서 SubProtocolHandler 집합 
+SubProtocolWebSocketHandler 내부에서 SubProtocolHandler Set 멤버를 지정하고 

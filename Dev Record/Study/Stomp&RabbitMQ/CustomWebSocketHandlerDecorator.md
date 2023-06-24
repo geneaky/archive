@@ -8,5 +8,12 @@ WebSocketTransportRegistration에 decorator factory를 등록할 수 있기 때�
 
 
 ``` java 
-
+@Override  
+public void configureWebSocketTransport(WebSocketTransportRegistration registration) {  
+	registration.addDecoratorFactory(  
+		handler -> 
+		new CustomWebSocketHandlerDecorator(participantRepository, handler));  
+		super.configureWebSocketTransport(registration);  
+}
 ```
+

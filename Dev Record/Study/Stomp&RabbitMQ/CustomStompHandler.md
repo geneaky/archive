@@ -4,4 +4,4 @@ stomp conenction을 맺을 클라이언트와의 갑작스러운 연결 종료(�
 기존 stompsubprotocolhandler를 확장해서 connection end time에 세션에서 사용자 정보를 가져와서
 업데이트하는 방향으로 처리를 진행했다.
 
-구독 라우터를 별도로 분리해서 구독 라우터에서 
+구독 라우터를 별도로 분리해서 구독 라우터에서 채팅방 connection status를 관리

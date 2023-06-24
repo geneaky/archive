@@ -4,4 +4,4 @@ stomp conenction을 맺을 클라이언트와의 갑작스러운 연결 종료(�
 WebSocketHandlerDecorator를 확장해서 connection end time에 세션에서 사용자 정보를 가져와서
 업데이트하는 방향으로 처리를 진행했다.
 
-WebSocketTransportRegi
+WebSocketTransportRegistration에 decorator factory를 등록할 수 있기 때문에 message broker configuration에서 configureWebSocketTransport 메서드를 override하여 작성한 custom 

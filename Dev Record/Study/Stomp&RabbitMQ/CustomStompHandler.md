@@ -6,3 +6,4 @@ stomp conenction을 맺을 클라이언트와의 갑작스러운 연결 종료(�
 
 구독 라우터를 별도로 분리해서 구독 라우터에서 채팅방 connection status를 관리
 핸들러에서 세션 종료시에 connection status를 관리
+구독해제시에도 connection status관리

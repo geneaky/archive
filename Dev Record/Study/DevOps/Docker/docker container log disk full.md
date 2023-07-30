@@ -20,4 +20,18 @@ du -h --max-depth=1 2>/dev/null
 
 docker/containers/${container_id}/${container_id}-json.log 로그 용량 확인 후 삭제
 
-이후 로그 파일을 
+이후 로그 파일을 최대 보관 사이즈와 개수를 지정
+
+/etc/docker/daemon.json에 설정 지정
+
+``` json
+{
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "10m",
+    "max-file": "3"
+  }
+}
+```
+
+1일 혹은 n일 로그씩 ㅁ

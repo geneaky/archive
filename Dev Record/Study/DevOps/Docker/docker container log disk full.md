@@ -34,4 +34,4 @@ docker/containers/${container_id}/${container_id}-json.log 로그 용량 확인 
 }
 ```
 
-1일 혹은 n일 로그씩 ㅁ
+1일 혹은 n일 로그씩 묶어서 압축후 s3에 백업 후 로그 삭제 cron을 추가하는 방식으로 용량 관리 

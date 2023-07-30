@@ -18,5 +18,6 @@ df -h
 du -h --max-depth=1 2>/dev/null
 ```
 
-docker/containers/${container_id}/${container_id}-json 아래 로그 용량 확인 후 삭제
+docker/containers/${container_id}/${container_id}-json.log 로그 용량 확인 후 삭제
 
+이후 로그 파일을 

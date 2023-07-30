@@ -11,3 +11,11 @@ rabbitmq, grafana 도커 컨테이너에서 쌓은 로그가 많아져 전체 �
 ``` bash
 df -h
 ```
+
+이후 /etc/docker 디렉토리에서 현 디렉토리 사용량을 확인 
+
+```
+du -h --max-depth=1 2>/dev/null
+```
+
+docker/containers/

@@ -5,4 +5,5 @@
 
 @JvmStatic
 
-자바에서 코틀린 객체의 compainon이나 obejct를 중간 객체 없이
+자바에서 코틀린 객체의 compainon이나 obejct를 중간 객체 없이 바로 호출 가능하게 해줌.
+

@@ -1,5 +1,8 @@
 
-#### @Jvmfield
+#### @JvmField
 
 자바에서 코틀린 객체 프로퍼티 접근시 프로퍼티 이름으로 게터,세터 없이 접근하게해준다.
 
+@JvmStatic
+
+자바에서 코틀린 객체의 compainon이나 obejct를 중간 객체 없이

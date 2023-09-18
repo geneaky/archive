@@ -18,6 +18,8 @@
 - 스프링 mvc는 동시성 처리를 전통적 웹 방식인 하나의 스레드가 하나의 request를 처리하는 thread per request model를 사용한다.
 - thread per request model는 db, network IO등이 발생할 경우 결과를 받기까지 스레드가 블로킹이된다.
 -  이러한 문제를 해결하기 위해 스레드 풀을 사용해 동시성을 제어한다.
+- JPA, JDBC와 같은 블로킹 API를 사용하는 경우에는  MVC를 사용하는 것이 낫다
+	- webflux같은 비동기-논블로킹 시스템에서 어느 한구
 
 2.2 WebFlux
 - 리액티브 기반의 웹 스택 프레임워크

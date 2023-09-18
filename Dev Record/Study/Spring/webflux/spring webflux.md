@@ -17,3 +17,4 @@
 - 스프링으로 개발된 대부분의 웹 애플리케이션은 서블릿 기반의 스프링 mvc이다.
 - 스프링 mvc는 동시성 처리를 전통적 웹 방식인 하나의 스레드가 하나의 request를 처리하는 thread per request model를 사용한다.
 - thread per request model는 db, network IO등이 발생할 경우 결과를 받기까지 스레드가 블로킹이된다.
+-  이러한 문제를 해결하기 위해 스레드 풀을 사용해 동시성을 제어한다.

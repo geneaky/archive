@@ -25,4 +25,7 @@
 | Processor    | Publisher, Subscriber을 모두 상속받은 인터페이스                                                                             |
 
 Publisher가 데이터를 생성하고 Subscriber들에게 데이터를 통지하면 Subscriber는 자신이 처리할 수 있는 만큼의 데이터를 요청하고 처리한다.
-> 발행자가 제공할 수 있는 데이터의 양은 `무한(unbounded)` 하고 `순차적(sequentail)`
+> 발행자가 제공할 수 있는 데이터의 양은 `무한(unbounded)` 하고 `순차적(sequentail)` 처리를 보장
+
+Subscription은 Publisher와 Subscriber을 연결하는 매개체로 구독자가 데이터를 요청하거나 구독을 해지하는 등의 데이터 조절에 관련된 역할을 담당한다.
+

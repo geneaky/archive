@@ -16,3 +16,9 @@
 
 
 #### reactive stream interface
+
+| 인터페이스   | 설명                                      |
+| ------------ | ----------------------------------------- |
+| Publisher    | 데이터를 생성하고 구독자에게 통지         |
+| Subscriber   | 데이터를 구독하고 통지 받은 데이터를 처리 |
+| Subscription | Publisher, Subscriber간의 데이터를 교환하도록 연결하는 역할을 하며 전달받ㅇ                                          |

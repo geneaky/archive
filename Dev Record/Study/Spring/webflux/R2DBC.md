@@ -7,4 +7,11 @@
 > 애플리케이션 로직이 비동기-논블로킹 이더라도 DB 드라이버가 JDBC라면 필연적으로 블로킹이 발생하므로 100% 비동기-논블로킹의 성능을 내기 어렵다.
 
 #### 1.2 R2DBC
-R2DBC(Reactive Relational Database Connectivity)는 리액티브 기반의 비동기-논브
+R2DBC(Reactive Relational Database Connectivity)는 리액티브 기반의 비동기-논블로킹 데이터베이스 드라이버이다.
+지원 DB
+- Oracle
+- Postgres
+- H2
+- MSSQL
+- MariaDB
+리액티브 스트림 구현체인 Project Reactor, RxJava등을 지원한다.

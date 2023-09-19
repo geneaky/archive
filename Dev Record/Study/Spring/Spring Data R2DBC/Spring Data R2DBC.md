@@ -6,4 +6,4 @@ R2DBC 기반의 스프링 데이터 프로젝트
 
 
 #### ReactiveCrudRepository
-> `ReactiveCrudRepository` 는 리액티브를 지원하는 CRUDㅇ
+> `ReactiveCrudRepository` 는 리액티브를 지원하는 CRUD에 대한 인터페이스이다.

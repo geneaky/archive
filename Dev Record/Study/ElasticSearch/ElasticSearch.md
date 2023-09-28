@@ -92,6 +92,12 @@ ElasticSearch 클러스터는 여러대의 노드들이 각자의 역할을 바�
 
 ``` json
 {
-"index_patterns" : ["spring-log"]
+	"index_patterns" : ["spring-logs-1"],
+	"template" : {
+		"setting" : {
+			"number_of_shards" : 3,
+			"number_of_replicas" : 2
+		}
+	}
 }
 ```

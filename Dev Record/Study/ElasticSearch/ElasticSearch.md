@@ -36,3 +36,13 @@ ElasticSearch 클러스터는 여러대의 노드들이 각자의 역할을 바�
 ==하지만== 각 노드에게 직접적인 요청을 보내는 방식보다 api gateway를 지나처 로드밸런서를 통해 접근하는 방식으로 구성하는 것이 좋다.
 
 # 인덱스, 샤드
+| ElasticSearch | RDBMS    |
+| ------------- | -------- |
+| index         | database |
+| mapping       | schema   |
+| document      | row         |
+
+
+==__index__==
+
+문서가 저장되는 논리적인 공간

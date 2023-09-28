@@ -19,4 +19,9 @@
 
 루씬 검색의 특징
 
-- 
+- 최적합 결과를 상위에 반환하는 순위 검색 지원.
+- [[풍부한 검색 유형 제공 (Phrase Query, Wildcard Query, Proximity Query, Range Query)]]
+- 필드 검색 지원
+- 어떠한 유형의 필드로도 정렬 가능
+- 다중 색인 검색 지원
+- 준 실시간 검색 가능 

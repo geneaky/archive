@@ -142,4 +142,6 @@ ElasticSearch 클러스터는 여러대의 노드들이 각자의 역할을 바�
 
 #### analyzer
 
-문자열 - d-> to -> -> -> 
+text -> character filter -> tokenizer -> token filter -> tokens
+
+문자열을 분석해서 inverted 

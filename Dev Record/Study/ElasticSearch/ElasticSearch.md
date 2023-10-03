@@ -137,4 +137,6 @@ ElasticSearch 클러스터는 여러대의 노드들이 각자의 역할을 바�
 
 검색어 분석 -> inverted index 검색 -> 검색 결과 표시
 
-#### invert
+#### inverted index
+문자열을 분석한 결과를 저장하고 있는 구조체
+

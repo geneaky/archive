@@ -153,3 +153,4 @@ character filter, tokenizer, token filter로 애널라이저를 구성한다.
 2. inverted index 검색 == 생성된 토큰을 inverted index에서 검색
 3. 검색결과 표시
 
+검색 요청은 프라이머리, 레플리카 샤드 모두가 

@@ -149,3 +149,5 @@ text -> character filter -> tokenizer -> token filter -> tokens
 character filter, tokenizer, token filter로 애널라이저를 구성한다.
 
 
+검색어 분석 == 애널라이저 적용
+inverted index 검색 == 생성된 토큰을 inveted

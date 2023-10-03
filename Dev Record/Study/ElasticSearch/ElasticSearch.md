@@ -144,4 +144,6 @@ ElasticSearch 클러스터는 여러대의 노드들이 각자의 역할을 바�
 
 text -> character filter -> tokenizer -> token filter -> tokens
 
-문자열을 분석해서 inverted 
+문자열을 분석해서 inverted index 구성을 위한 토큰을 만들어 내는 과정
+
+character filter, tokenizer, token filter로 애널라이저를 구성하

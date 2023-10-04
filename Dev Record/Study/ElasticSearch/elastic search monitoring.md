@@ -89,3 +89,5 @@ GET /_cat/shards?v
 | prirep      | 프라이머리인지 레플리카인지 |
 | state       | 상태(STARTED, UNASSIGNED)   |
 |             |                             |
+
+

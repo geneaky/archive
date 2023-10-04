@@ -60,12 +60,14 @@ GET /_cat/indices?v
 ```
 -  cat indices
 	- 인덱스의 상태를 확인할 수 있다.
-| header name | meaning                                    |
-| ----------- | ------------------------------------------ |
-| health      |                                            |
-| status      | open, close(색인, 검색 불가능 상태 인덱스) |
-| index       | 인덱스 이름                                |
-| pri         | 프라이머리 샤드 수                         |
-| rep         | replica 샤드 수                            |
-| doc.count   | 문서의 수                                  |
-| store.size  | 인덱스 전체 데이터의 크기(프라이머리, 레플리)                                           |
+| header name    | meaning                                                          |
+| -------------- | ---------------------------------------------------------------- |
+| health         |                                                                  |
+| status         | open, close(색인, 검색 불가능 상태 인덱스)                       |
+| index          | 인덱스 이름                                                      |
+| pri            | 프라이머리 샤드 수                                               |
+| rep            | replica 샤드 수                                                  |
+| doc.count      | 문서의 수                                                        |
+| store.size     | 인덱스 전체 데이터의 크기(프라이머리, 레플리카 샤드 둘 다 포 함) |
+| pri.store.size | 프라이머리 샤드 기준 데이터 크기                                 |
+|                |                                                                  |

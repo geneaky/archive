@@ -75,3 +75,14 @@ GET /_cat/indices?v
 | pri.store.size | 프라이머리 샤드 기준 데이터 크기                                 |
 |                |                                                                  |
 
+``` curl
+GET /_cat/shards?v
+```
+
+- cat shards
+	- 샤드의 상태를 확인
+
+| header name | meaning     |
+| ----------- | ----------- |
+| index       | 인덱스 이름 |
+| shard            |             |

@@ -179,3 +179,5 @@ keyword 타입이 text 타입에 비해 cpu를 덜 사용하기 때문에 색인
 | 주소, 이름, 물품 상세 정보, etc | 성별, 물품 카테고리, etc  |
 |                                 |                           |
 
+
+[[elastic search monitoring]]

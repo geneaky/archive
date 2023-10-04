@@ -60,3 +60,8 @@ GET /_cat/indices?v
 ```
 -  cat indices
 	- 인덱스의 상태를 확인할 수 있다.
+| header name | meaning                                    |
+| ----------- | ------------------------------------------ |
+| health      |                                            |
+| status      | open, close(색인, 검색 불가능 상태 인덱스) |
+| index       |                                             |

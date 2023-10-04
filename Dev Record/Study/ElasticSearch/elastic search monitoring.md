@@ -6,7 +6,8 @@ Compact and Aligned Text(CAT) APIs
 ui기반 모니터링 시스템이 원인 파악에 더 편하지만 cat API가 상황을 빠르게 판단하는데 더 도움이 되기 때문에 사용한다.
 
 ``` curl
-GET /_cat/healt?v // ver_
+GET /_cat/healt?v // verbose_
 ```
 - cat health
 	- elasticsearch 클러스터의 전반적인 상태를 파악할 수 있다.
+	- 

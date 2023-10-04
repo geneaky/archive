@@ -10,14 +10,17 @@ GET /_cat/healt?v // verbose_
 ```
 - cat health
 	- elasticsearch 클러스터의 전반적인 상태를 파악할 수 있다.
-| header name | meaning                         |
-| ----------- | ------------------------------- |
-| cluster     | 클러스터 이름                   |
-| status      | 클러스터 상태                   |
-| node.total  | 총 노드 수                      |
-| node.data   | 데이터 노드 수                  |
-| shards      | 샤드 수                         |
-| pri         | 프라이머리 샤드 수              |
-| relo        | 재배치가 일어나고있는 샤드 개수 |
-| init        | 초기화중인 샤드 수              |
-| unassign    | 샤드 중 아직 노드에 배치되지 않은 샤드 수                                |
+| header name        | meaning                                   |
+| ------------------ | ----------------------------------------- |
+| cluster            | 클러스터 이름                             |
+| status             | 클러스터 상태                             |
+| node.total         | 총 노드 수                                |
+| node.data          | 데이터 노드 수                            |
+| shards             | 샤드 수                                   |
+| pri                | 프라이머리 샤드 수                        |
+| relo               | 재배치가 일어나고있는 샤드 개수           |
+| init               | 초기화중인 샤드 수                        |
+| unassign           | 샤드 중 아직 노드에 배치되지 않은 샤드 수 |
+| pending_tasks      | pending걸린 작업 수                       |
+| max_task_wait_time | 가장 오래 대기한 태스크의 대기시간        |
+| active_shrads_percent                   |                                           |

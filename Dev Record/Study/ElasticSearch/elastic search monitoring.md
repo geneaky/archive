@@ -10,4 +10,11 @@ GET /_cat/healt?v // verbose_
 ```
 - cat health
 	- elasticsearch 클러스터의 전반적인 상태를 파악할 수 있다.
-|
+| header name | meaning        |
+| ----------- | -------------- |
+| cluster     | 클러스터 이름  |
+| status      | 클러스터 상태  |
+| node.total  | 총 노드 수     |
+| node.data   | 데이터 노드 수 |
+| shards      | 샤드 수        |
+	| pri            |                |

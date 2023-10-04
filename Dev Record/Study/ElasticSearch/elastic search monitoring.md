@@ -82,7 +82,10 @@ GET /_cat/shards?v
 - cat shards
 	- 샤드의 상태를 확인
 
-| header name | meaning     |
-| ----------- | ----------- |
-| index       | 인덱스 이름 |
-| shard            |             |
+| header name | meaning                     |
+| ----------- | --------------------------- |
+| index       | 인덱스 이름                 |
+| shard       | 몇 번째 샤드인지            |
+| prirep      | 프라이머리인지 레플리카인지 |
+| state       | 상태(STARTED, UNASSIGNED)   |
+|             |                             |

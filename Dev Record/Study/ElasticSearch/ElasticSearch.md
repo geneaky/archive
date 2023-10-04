@@ -157,3 +157,5 @@ character filter, tokenizer, token filter로 애널라이저를 구성한다.
 
 number_of_replicas는 dynamic하기때문에 운영중에 동적으로 레플리카 수를 변경하여 검색 성능을 높일 수 있다.
 
+# text, keyword타입
+둘 다 문자열을 

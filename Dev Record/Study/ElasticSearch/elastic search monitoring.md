@@ -64,4 +64,8 @@ GET /_cat/indices?v
 | ----------- | ------------------------------------------ |
 | health      |                                            |
 | status      | open, close(색인, 검색 불가능 상태 인덱스) |
-| index       |                                             |
+| index       | 인덱스 이름                                |
+| pri         | 프라이머리 샤드 수                         |
+| rep         | replica 샤드 수                            |
+| doc.count   | 문서의 수                                  |
+| store.size  | 인덱스 전체 데이터의 크기(프라이머리, 레플리)                                           |

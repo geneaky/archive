@@ -56,4 +56,4 @@ GET /_cat/nodes?v
 
 
 -  cat indices
-	- d
+	- 인덱스의 상태를 확인할 수 있다.

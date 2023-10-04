@@ -163,3 +163,7 @@ number_of_replicas는 dynamic하기때문에 운영중에 동적으로 레플리
 text 타입은 full-text serach를 위해 토큰이 생성된다.
 keyword타입은 exact matching을 위해 토큰이 생성된다.
 
+``` json
+i am software engineer
+
+```

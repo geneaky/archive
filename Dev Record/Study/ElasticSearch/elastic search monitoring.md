@@ -36,4 +36,9 @@ status
 GET /_cat/nodes?v
 ```
 - cat nodes
-- 
+	- 노드들의 전반적인 상태를 확인 가능
+
+| header name  | meaning               |
+| ------------ | --------------------- |
+| heap.percent | jvm heap mem 사용ㄹ야 |
+| ram.percent  |                       |

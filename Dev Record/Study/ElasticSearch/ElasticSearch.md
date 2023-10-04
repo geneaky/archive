@@ -172,4 +172,4 @@ keyword: i am software engineer
 keyword 타입이 text 타입에 비해 cpu를 덜 사용하기 때문에 색인 속도가 더 빠르다.
 
 문자열 필드가 동적 매핑이 되면 text, keyword타입 둘 다 생성된다.
-
+> 즉, 문자열 특성에 따라 

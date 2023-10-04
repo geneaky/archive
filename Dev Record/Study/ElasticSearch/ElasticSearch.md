@@ -158,4 +158,8 @@ character filter, tokenizer, token filter로 애널라이저를 구성한다.
 number_of_replicas는 dynamic하기때문에 운영중에 동적으로 레플리카 수를 변경하여 검색 성능을 높일 수 있다.
 
 # text, keyword타입
-둘 다 문자열을 
+둘 다 문자열을 나타내기 위한 타입이다.
+
+text 타입은 full-text serach를 위해 토큰이 생성된다.
+keyword타입은 exact matching을 위해 토큰이 생성된다.
+

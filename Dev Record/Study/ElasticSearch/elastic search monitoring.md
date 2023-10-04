@@ -38,7 +38,10 @@ GET /_cat/nodes?v
 - cat nodes
 	- 노드들의 전반적인 상태를 확인 가능
 
-| header name  | meaning               |
-| ------------ | --------------------- |
-| heap.percent | jvm heap mem 사용ㄹ야 |
-| ram.percent  |                       |
+| header name  | meaning             |
+| ------------ | ------------------- |
+| heap.percent | jvm heap mem 사용량 |
+| ram.percent  | 노드 메모리 사용량  |
+| cpu          | 노드 cpu 사용량     |
+| load_xm      | 로드 average        |
+| node.role    |    노드 역할                 |

@@ -10,4 +10,4 @@ GET /_cat/healt?v // verbose_
 ```
 - cat health
 	- elasticsearch 클러스터의 전반적인 상태를 파악할 수 있다.
-	- 
+|

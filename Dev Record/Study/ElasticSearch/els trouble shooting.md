@@ -33,4 +33,4 @@ ELS 노드의 디스크 사용량이 100%가 되면 노드의 운영 체제도 �
 `cluster.routing.allocation.disk.thredhold_enabled` : 보호장치를 사용 여부 설정
 `cluster.routing.allocation.disk.watermark.low` : 기본값 85%, 이 값보다 높아지면 더이상 샤드를 배치하지 않는다.
 `cluster.routing.allocation.disk.watermark.high` : 기본값 90%, 이 값보다 높아지면 샤드를 다른 데이터 노드로 옮기기 시작한다.
-`cluster.routing`
+`cluster.routing.allocation.disk.watermark.flood_stage` : 기본값 95%, 이 값보다 높아지면 더이상 색인 하지 않는다.

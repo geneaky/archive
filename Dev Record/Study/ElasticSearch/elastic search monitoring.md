@@ -103,7 +103,7 @@ ELS System 종류
 
 임계치를 걸어 알람 받을 목적의 지표
 - CPU Usage
-	- 노드가 cpu
+	- 노드가 cpu를 얼마나 많이 사용하고 있는지
 - Disk Usage
 - Load
 - JVM Heap

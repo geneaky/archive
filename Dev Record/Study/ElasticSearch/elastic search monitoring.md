@@ -121,9 +121,12 @@ ELS System 종류
 - Memory Usage
 	- 노드에 설치되어 있는 물리 메모리의 사용량으로 JVM Heap과는 다르다.
 - GC Rate
-	- 
+	- 노드에서 발생하는 GC의 발생 주기
 - GC Duration
+	- 
 - Rate
+	- 
 - Latency
+	- 
 - Disk I/O
 	- 노드에서 발생하는 디스크 연산 지연 시간

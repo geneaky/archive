@@ -101,4 +101,15 @@ ELS System 종류
 지표는 임계치를 걸어 알람을 받을 목적의 지표와
 문제 원인을 찾기 위해 분석용도로 사용하는 지표가 있다.
 
-임계치를 걸어 
+임계치를 걸어 알람 받을 목적의 지표
+- CPU Usage
+	- 노드가 cpu
+- Disk Usage
+- Load
+- JVM Heap
+- Threads
+문제 원인 분석을 위한 지표
+- Memory Usage
+- GC Rate
+- GC Duration
+- 

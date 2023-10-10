@@ -55,3 +55,6 @@ ELS는 색인/검색 요청을 처리하는 스레드가 존재하고 모든 스
 
 cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티 
 
+1. 데이터 노드 증설
+2. 인덱스 설정 변경
+3. cluster.max_shards_per_node 변경

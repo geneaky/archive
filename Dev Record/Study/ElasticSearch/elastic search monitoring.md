@@ -107,8 +107,9 @@ ELS System 종류
 - Disk Usage
 	- 노드가 얼마나 많은 문서를 저장하고 있는지
 - Load(부하)
-	- 노드가 얼마나 많은 CPU
+	- 노드가 얼마나 많은 CPU와 디스크 `연산`을 처리하고 있는지
 - JVM Heap
+	- 
 - Threads
 문제 원인 분석을 위한 지표
 - Memory Usage

@@ -104,6 +104,7 @@ ELS System 종류
 임계치를 걸어 알람 받을 목적의 지표
 - CPU Usage
 	- 노드가 cpu를 얼마나 많이 사용하고 있는지
+	- 50
 - Disk Usage
 	- 노드가 얼마나 많은 문서를 저장하고 있는지
 - Load(부하)
@@ -111,6 +112,7 @@ ELS System 종류
 - JVM Heap
 	- 노드의 JVM이 얼마나 많은 메모리를 사용하는지
 - Threads
+	- 처리량을 넘어서는 색인/검색 요청이 있는지
 문제 원인 분석을 위한 지표
 - Memory Usage
 - GC Rate

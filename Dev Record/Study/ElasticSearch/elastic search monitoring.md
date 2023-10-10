@@ -96,3 +96,9 @@ ELS System 종류
 - Selft-Hosted ELS(Kibana Stack Monitoring)
 - AWS OpenSearch Service(AWS CloudWatch)
 
+#### 중접적으로 모니터링해야하는 기준 지표
+
+지표는 임계치를 걸어 알람을 받을 목적의 지표와
+문제 원인을 찾기 위해 분석용도로 사용하는 지표가 있다.
+
+임계치를 걸어 

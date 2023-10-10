@@ -119,6 +119,10 @@ ELS System 종류
 	- Rejected Threads가 1 이상
 문제 원인 분석을 위한 지표
 - Memory Usage
+	- 노드에 설치되어 있는 물리 메모리의 사용량으로 JVM Heap과는 다르다.
 - GC Rate
+	- 
 - GC Duration
-- 
+- Rate
+- Latency
+- Disk I/O

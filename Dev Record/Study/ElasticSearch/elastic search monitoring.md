@@ -126,4 +126,4 @@ ELS System 종류
 - Rate
 - Latency
 - Disk I/O
-	- 
+	- 노드에서 발생하는 디스크 연산 지연 시간

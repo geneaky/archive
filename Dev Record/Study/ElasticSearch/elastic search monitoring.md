@@ -125,7 +125,7 @@ ELS System 종류
 - GC Duration
 	- 노드에서 발생하는 GC의 소요시간
 - Rate
-	- 
+	- 노드에서 색인 및 검색 요청이 인입되는 양
 - Latency
 	- 노드에서 색인 및 검색에 소요되는 시간
 - Disk I/O

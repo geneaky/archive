@@ -59,4 +59,5 @@ cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티
 2. 인덱스 설정 변경
 3. cluster.max_shards_per_node 변경
 
-###### 사례 5. 
+###### 사례 5. CMS GC환경에서 너무 잦은 Old GC가 발생하는 경우
+

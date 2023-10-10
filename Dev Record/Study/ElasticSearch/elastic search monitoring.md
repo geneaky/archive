@@ -123,10 +123,10 @@ ELS System 종류
 - GC Rate
 	- 노드에서 발생하는 GC의 발생 주기
 - GC Duration
-	- 
+	- 노드에서 발생하는 GC의 소요시간
 - Rate
 	- 
 - Latency
-	- 
+	- 노드에서 색인 및 검색에 소요되는 시간
 - Disk I/O
 	- 노드에서 발생하는 디스크 연산 지연 시간

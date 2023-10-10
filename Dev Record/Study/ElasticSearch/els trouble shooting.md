@@ -64,4 +64,6 @@ cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티
 불필요하게 많은 객체들이 old 메모리 영역으로 이동해서 gc가 발생
 
 gc의 survivor영역이 이미 가득차서 할당되지 못하는경우 eden에서 old로 바로 할당된다.
+> survivor영역을 늘려준다. newratio, survivorratito jvm 튜닝
+
 

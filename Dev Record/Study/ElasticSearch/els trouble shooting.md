@@ -61,3 +61,5 @@ cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티
 
 ###### 사례 5. CMS GC환경에서 너무 잦은 Old GC가 발생하는 경우
 
+불필요하게 많은 객체들이 old 메모리 영역으로 이동해서 gc가 발생
+

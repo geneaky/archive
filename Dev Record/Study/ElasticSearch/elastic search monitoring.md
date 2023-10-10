@@ -91,3 +91,7 @@ GET /_cat/shards?v
 |             |                             |
 
 
+ELS System 종류
+- Elastic Cloud(Kibn)
+- Selft-Hosted ELS
+- AWS OpenSearch Service(AWS CloudWatch)

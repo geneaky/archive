@@ -58,3 +58,5 @@ cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티
 1. 데이터 노드 증설
 2. 인덱스 설정 변경
 3. cluster.max_shards_per_node 변경
+
+###### 사례 5. 

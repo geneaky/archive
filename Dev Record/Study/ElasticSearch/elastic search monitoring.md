@@ -105,7 +105,9 @@ ELS System 종류
 - CPU Usage
 	- 노드가 cpu를 얼마나 많이 사용하고 있는지
 - Disk Usage
-- Load
+	- 노드가 얼마나 많은 문서를 저장하고 있는지
+- Load(부하)
+	- 노드가 얼마나 많은 CPU
 - JVM Heap
 - Threads
 문제 원인 분석을 위한 지표

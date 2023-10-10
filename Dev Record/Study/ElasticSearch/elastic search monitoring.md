@@ -109,7 +109,7 @@ ELS System 종류
 - Load(부하)
 	- 노드가 얼마나 많은 CPU와 디스크 `연산`을 처리하고 있는지
 - JVM Heap
-	- 
+	- 노드의 JVM이 얼마나 많은 메모리를 사용하는지
 - Threads
 문제 원인 분석을 위한 지표
 - Memory Usage

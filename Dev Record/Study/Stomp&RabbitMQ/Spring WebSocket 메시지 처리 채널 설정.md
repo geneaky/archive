@@ -4,4 +4,5 @@ websocket client로부터 전달받은 메시지를 처리하기 위한 inbound 
 - configureClientInboundChannel
 > message channel은 thread pool로 동작하게되고 기본 pool size는 1이며 운영환경에 맞춰 커스터마이징 하는걸 추천한다.
 
-- 채ㅜ
+- configureClientOutboundChannel
+> websocket client에게 메시지를 전달하기위해 사용하는 message channel에 대한 설정으로 inboundchannel과 마찬가지로 default pool size는 1이며 우

@@ -65,5 +65,3 @@ cluster.max_shards_per_node(defaults: 1000) : 위 설정 프로퍼티
 
 cms gc의 survivor영역이 이미 가득차서 할당되지 못하는경우 eden에서 old로 바로 할당된다.
 > survivor영역을 늘려준다. newratio, survivorratito jvm 튜닝
-
-

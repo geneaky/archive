@@ -28,4 +28,4 @@ jvm_threads_live_threads metric이 의미하는 바는 뭘까?
 
 jvm_gc_memory_allocated_bytes 이게 뭘까?
 
-jvm gc발생 이후 heap의 
+jvm gc발생 이후 heap의 young, eden 영역들을 sweep한 이후 

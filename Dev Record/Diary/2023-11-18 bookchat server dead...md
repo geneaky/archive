@@ -30,5 +30,5 @@ jvm_gc_memory_allocated_bytes 이게 뭘까?
 
 jvm gc발생 이후 heap의 young, eden 영역들을 sweep한 이후 jvm의 메모리 영역에 추가 여유분이 할당된 크기를 나타낸다
 
-그렇다면 gc를 확인해보자
+그렇다면 gc metric을 확인해보자
 

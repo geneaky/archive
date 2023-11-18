@@ -26,4 +26,5 @@ jvm_threads_live_threads metric이 의미하는 바는 뭘까?
 
 위 로그가 서버가 죽기전 마지막 로그인데 의심할만한 부분을 자세히 보자
 
-jvm_gc_memory_allocated_bytes
+jvm_gc_memory_allocated_bytes 이게 뭘까?
+

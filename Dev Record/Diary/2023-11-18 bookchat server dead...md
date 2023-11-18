@@ -12,3 +12,9 @@ jvm_threads_live_threads metric이 의미하는 바는 뭘까?
 
 위 메트릭을 보면 33개의 thread가 기본적으로 live 상태이고 추가로 33~35 총 2개의 thread가 생겼다 반환되었다를 반복하다가 서버가 죽은 것을 확인할 수 있다
 
+그렇다면 이시각 deamon thread의 개수는?
+
+![[Pasted image 20231118213519.png]]
+
+24~ 26개를 오가고 있었다.
+

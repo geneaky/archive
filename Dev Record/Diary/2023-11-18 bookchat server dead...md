@@ -32,3 +32,6 @@ jvm gc발생 이후 heap의 young, eden 영역들을 sweep한 이후 jvm의 메�
 
 그렇다면 gc metric을 확인해보자
 
+![[Pasted image 20231118223624.png]]
+
+jvm_gc_live_data_size metric은 gc이후 

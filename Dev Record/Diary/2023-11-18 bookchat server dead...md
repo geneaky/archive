@@ -4,4 +4,4 @@
 
 ![[Pasted image 20231118211509.png]]
 
-jvm tr
+jvm_threads_live_threads metric이 의미하는 바는 뭘까?

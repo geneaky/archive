@@ -6,4 +6,6 @@
 
 jvm_threads_live_threads metric이 의미하는 바는 뭘까?
 
-데몬 및 데몬이 아닌
+thread는 deamon thread, normal thread로 두 종류가 있다.
+
+jvm이 시작되면 생성되는

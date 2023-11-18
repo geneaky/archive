@@ -42,4 +42,4 @@ jvm_gc_max_data_size metric은 jvm시작 이후 메모리 풀의 최대 사용�
 
 그렇다면 메모리 누수가 있었는지 확인을 해봐야할 것 같다.
 
-intellij profiler로 찾아보자
+heap dump를 떠보자

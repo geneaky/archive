@@ -34,4 +34,6 @@ jvm gc발생 이후 heap의 young, eden 영역들을 sweep한 이후 jvm의 메�
 
 ![[Pasted image 20231118223624.png]]
 
-jvm_gc_live_data_size metric은 gc이후 
+jvm_gc_live_data_size metric은 gc이후 추가 여유분이 생긴 크기를 나타내는데 57mb가 추가된 것으로 보인다
+
+jvm_max_data_size metric은 

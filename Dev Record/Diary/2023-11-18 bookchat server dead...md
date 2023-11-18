@@ -36,4 +36,5 @@ jvm gc발생 이후 heap의 young, eden 영역들을 sweep한 이후 jvm의 메�
 
 jvm_gc_live_data_size metric은 gc이후 추가 여유분이 생긴 크기를 나타내는데 57mb가 추가된 것으로 보인다
 
-jvm_gc_max_data_size metric은 jvm시작 이후 메모리 풀의 최대 사용량을 나타내는데 이 값이 
+jvm_gc_max_data_size metric은 jvm시작 이후 메모리 풀의 최대 사용량을 나타내는데 이 값이 old gen영역의 크기와 동일하다.
+즉 메모리풀 최대 사용량 만큼 old gen영역이 계속 할당되어 있었고 마지막 gc 이후 생긴 여유 메모리는 5

@@ -18,3 +18,5 @@ jvm_threads_live_threads metric이 의미하는 바는 뭘까?
 
 24~ 26개를 오가고 있었다.
 
+그렇다면 9개의 normal thread가 최대치일때 동작하고 있었다는 의미가 된다.
+

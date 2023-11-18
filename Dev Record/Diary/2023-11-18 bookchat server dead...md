@@ -5,3 +5,5 @@
 ![[Pasted image 20231118211509.png]]
 
 jvm_threads_live_threads metric이 의미하는 바는 뭘까?
+
+데몬 및 데몬이 아닌

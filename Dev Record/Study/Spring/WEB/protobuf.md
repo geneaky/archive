@@ -7,4 +7,6 @@
 
 protobuf를 사용해보면서 장점을 확인해보자.
 
-##### config
+##### project gradle config
+
+우선 protobuf 의존성을 가져오기 위해 별도의 buildscript에

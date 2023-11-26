@@ -13,4 +13,5 @@ protobuf를 사용해보면서 장점을 확인해보자.
 
 ![[Pasted image 20231126212900.png]]
 
+![[Pasted image 20231126213037.png]]
 

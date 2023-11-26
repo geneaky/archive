@@ -43,3 +43,7 @@ build결과 디렉토리 하위 generated폴더에 위 이미지처럼 proto fil
 테스트 결과는 protobuf를 역/직렬화했을때 속도가 2배이상 빨랐고, 직렬화 결과로 나타나는 바이트 결과도 jackson 직렬화 결과가 더 많았다.
 
 protobuf는 데이터를 직렬화할때 binary format을 사용하기 때문에 json과 비교했을때 결과물이 더 작다.
+
+#### gRPC가 아닌 HTTP환경에서 resposne로 사용하기에 적합한가?
+
+protobuf를 회사 

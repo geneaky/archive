@@ -18,3 +18,9 @@ protobuf를 사용해보면서 장점을 확인해보자.
 이제 실제 개발에서 필요한 java 의존성을 추가해주고 빌드 과정에서 main/test에서 사용하게될 protofile의 위치를 source set으로 지정해준다.
 
 build시에 task를 등록해야하는데 proto file에 작성한 내용을 protoc compiler를 사용해서 java 언어로 생성하겠다는 의미이다
+
+이렇게 작성하면 gradle task에 generateProto가 생성이된다.
+
+![[Pasted image 20231126213329.png]]
+
+응답으로 사용할 

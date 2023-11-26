@@ -56,4 +56,5 @@ proto를 사용했을때의 이점인 직렬화(우리는 data를 직렬화해�
 
 우선 응답 클래스를 그대로 반환하기엔 spring에 http message converter가 예외를 뱉어내는 모습이다.
 
-http message 
+http message converter를 custom하게 설정해주어야할 것 같다.
+

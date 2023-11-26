@@ -9,4 +9,8 @@ protobuf를 사용해보면서 장점을 확인해보자.
 
 ##### project gradle config
 
-우선 protobuf 의존성을 가져오기 위해 별도의 buildscript에
+우선 protobuf 의존성을 가져오기 위해 buildscript에 별로로 google() respository를 등록해주고 플러그인 의존성을 받아와서 등록해준다.
+
+![[Pasted image 20231126212900.png]]
+
+

@@ -60,3 +60,7 @@ http message converter를 custom하게 설정해주어야할 것 같다.
 
 `ProtoHttpMessageConverter` 를 bean으로 등록해준다.
 
+![[Pasted image 20231126230731.png]]
+
+rest api 호출 결과가 조금 이상하다,,
+

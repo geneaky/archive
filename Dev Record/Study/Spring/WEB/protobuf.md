@@ -23,4 +23,8 @@ build시에 task를 등록해야하는데 proto file에 작성한 내용을 prot
 
 ![[Pasted image 20231126213329.png]]
 
-응답으로 사용할 
+응답으로 사용할 message를 .proto파일에 명시해준 후
+
+![[Pasted image 20231126213406.png]]
+
+proto 생성 task를 실행시켜주면 

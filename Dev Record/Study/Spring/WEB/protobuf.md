@@ -52,3 +52,8 @@ proto를 사용했을때의 이점인 직렬화(우리는 data를 직렬화해�
 이진 포맷을 사용해서 바이트로 직렬화 했기 때문에 빠른 속도를 보여줬는데 우리는 결국 http json으로 응답을 보내주어야한다.
 그렇다면 proto의 byte 직렬화 결과물을 다시 jackson을 사용해서 wrapping해주어야하나??
 
+![[Pasted image 20231126215131.png]]
+
+우선 응답 클래스를 그대로 반환하기엔 spring에 http message converter가 예외를 뱉어내는 모습이다.
+
+http message 

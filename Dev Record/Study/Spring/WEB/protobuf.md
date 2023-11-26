@@ -64,4 +64,8 @@ http message converter를 custom하게 설정해주어야할 것 같다.
 
 rest api 호출 결과가 조금 이상하다,,
 
-http accept header를 명시적으로 붙여줘야 결과가 정
+http accept header를 명시적으로 붙여줘야 결과가 정상적으로 나오는 것 같다.
+
+![[Pasted image 20231126230920.png]]
+
+mockMvc로 호출한 결과뿐 아니라 일반 http client로 호출하는 결과도 마찬가지다.

@@ -58,3 +58,5 @@ proto를 사용했을때의 이점인 직렬화(우리는 data를 직렬화해�
 
 http message converter를 custom하게 설정해주어야할 것 같다.
 
+`ProtoHttpMessageConverter` 를 bean으로 등록해준다.
+

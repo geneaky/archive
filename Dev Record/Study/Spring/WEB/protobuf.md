@@ -87,3 +87,4 @@ protobuf를 json으로 직렬화하는 시간이 일반 pojo를 json으로 직�
 
 사용하기 위한 의도를 생각할때 적합하지 않다는 생각이 든다
 
+![[Pasted image 20231126234142.png]]

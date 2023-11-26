@@ -28,3 +28,7 @@ build시에 task를 등록해야하는데 proto file에 작성한 내용을 prot
 ![[Pasted image 20231126213406.png]]
 
 proto 생성 task를 실행시켜주면 
+
+![[Pasted image 20231126213454.png]]
+
+build결과 디렉토리 하위 generated폴더에 위 이미지처럼 proto file의 이름과 동일한 

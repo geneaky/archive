@@ -46,4 +46,4 @@ protobuf는 데이터를 직렬화할때 binary format을 사용하기 때문에
 
 #### gRPC가 아닌 HTTP환경에서 resposne로 사용하기에 적합한가?
 
-protobuf를 회사 
+protobuf를 회사 신규 프로젝트에서 응답 스펙을 명시해서, 생성하면 관리가 용이하고 dto생성이 편할것이라는 의견이 있었서 http response로 사용하기에 적합한가에 대해 고민해볼 필요가 이

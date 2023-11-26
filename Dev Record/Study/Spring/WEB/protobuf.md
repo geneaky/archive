@@ -38,4 +38,4 @@ build결과 디렉토리 하위 generated폴더에 위 이미지처럼 proto fil
 
 ![[Pasted image 20231126213634.png]]
 
-100만개의 데이터를
+100만개의 데이터를 각각 proto와 jackson을 사용해 직렬화/역직렬화하

@@ -64,3 +64,4 @@ http message converter를 custom하게 설정해주어야할 것 같다.
 
 rest api 호출 결과가 조금 이상하다,,
 
+http accept header를 명시적으로 붙여줘야 결과가 정

@@ -31,4 +31,11 @@ proto 생성 task를 실행시켜주면
 
 ![[Pasted image 20231126213454.png]]
 
-build결과 디렉토리 하위 generated폴더에 위 이미지처럼 proto file의 이름과 동일한 
+build결과 디렉토리 하위 generated폴더에 위 이미지처럼 proto file의 이름과 동일한 이름의 클래스가 생성이 된다.
+
+
+#### 성능 차이?
+
+![[Pasted image 20231126213634.png]]
+
+100만개의 데이터를

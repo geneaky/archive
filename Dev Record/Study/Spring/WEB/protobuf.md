@@ -88,3 +88,6 @@ protobuf를 json으로 직렬화하는 시간이 일반 pojo를 json으로 직�
 사용하기 위한 의도를 생각할때 적합하지 않다는 생각이 든다
 
 ![[Pasted image 20231126234142.png]]
+
+기본적으로 protobuf를 지원하는 응답이 아닌 이외의 응답일 경우 (application/json) merge메서드를 호출해서 jsonformat을 직접 맞추는데 이 행위가
+jackson objectmapper를 통해 json응답을 내려주는 것보다 

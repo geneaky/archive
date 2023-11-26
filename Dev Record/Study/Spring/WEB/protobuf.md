@@ -78,4 +78,5 @@ mockMvc로 호출한 결과뿐 아니라 일반 http client로 호출하는 결�
 
 accept를 application/json으로 명시적으로 설정하고 호출한 경우에는 정상적으로 받는다
 
-front에서 어떤 기술을 사용할지는 모르겠지만 web, app에서 사용하는 http 
+front에서 어떤 기술을 사용할지는 모르겠지만 web, app에서 사용하는 http client관련 라이브러리 사용시에 명시적으로 accept를 매번 지정해야한다면 불편할 것 같다
+하지만 뭔가 http client 관련 객체를 만들때 accept를 지정ㅎ

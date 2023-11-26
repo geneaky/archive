@@ -69,3 +69,8 @@ http accept header를 명시적으로 붙여줘야 결과가 정상적으로 나
 ![[Pasted image 20231126230920.png]]
 
 mockMvc로 호출한 결과뿐 아니라 일반 http client로 호출하는 결과도 마찬가지다.
+
+![[Pasted image 20231126231030.png]]
+
+일반 호출시에는 content-type이 proto로 자동으로 세팅된다.
+

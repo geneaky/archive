@@ -5,7 +5,7 @@
 
 [protocol buffers docs](https://protobuf.dev/overview/#work)
 
-protobuf를 사용해보면서 장점을 확인해보자.
+protobuf를 사용해보면서 장점을 확인해보자.!
 
 ##### project gradle config
 

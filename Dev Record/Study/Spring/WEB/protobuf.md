@@ -93,3 +93,4 @@ protobuf를 json으로 직렬화하는 시간이 일반 pojo를 json으로 직�
 jackson objectmapper를 통해 json응답을 내려주는 것보다 과정과 처리가 더 길어서 이러한 결과가 나온것 같다.
 
 
+dfdfd

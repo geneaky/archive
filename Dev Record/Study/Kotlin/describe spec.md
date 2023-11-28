@@ -7,3 +7,13 @@
 - it
 	- 함수를 실제로 테스트하기 위해 사용
 
+```kotlin
+internal class MySecondTest: DescribeSpec({  
+    describe("로또 생성기") {  
+        context("로또를 생성하면") {  
+            it("6개의 숫자가 생성된다") {  
+                val lotto = Lotto(listOf(1, 2, 3, 4, 5, 6))  
+                lotto.size shouldBe 6  
+            }  
+        }    }})
+```

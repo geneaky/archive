@@ -15,5 +15,6 @@ internal class MySecondTest: DescribeSpec({
                 val lotto = Lotto(listOf(1, 2, 3, 4, 5, 6))  
                 lotto.size shouldBe 6  
             }  
-        }    }})
+}}})
 ```
+

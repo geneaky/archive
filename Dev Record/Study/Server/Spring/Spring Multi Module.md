@@ -1,1 +1,1 @@
-Gradle로 multi module 구성
+기본적인 mono 

@@ -1,1 +1,1 @@
-기본적인 mono 
+Web + DB

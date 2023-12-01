@@ -2,4 +2,7 @@
 
 2개의 transaction manager를 각각 등록하는 경우? 
 
-x)
+ex)
+
+
+슾

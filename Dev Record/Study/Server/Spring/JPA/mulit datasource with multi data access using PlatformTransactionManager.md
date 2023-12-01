@@ -19,4 +19,6 @@ insert 시에 강제로 예외를 터트리로 로그를 확인해봤다
 
 mybatis를 사용했음에도  platformtransaction manager로 설정해둔 jpa transaction manager가 정상 동작한다
 
-같은 datasource를 사용하는 
+같은 datasource를 사용하는 jpa, mybatis에 대한 transaction관리를 모두 해준다
+
+

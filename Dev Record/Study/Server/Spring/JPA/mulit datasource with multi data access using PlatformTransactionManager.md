@@ -9,3 +9,5 @@ jpa와 mybatis 둘 다 platformtransactionmanager를 구현하는 transaction ma
 
 ##### mybatis
 
+![[Pasted image 20231201160309.png]]
+

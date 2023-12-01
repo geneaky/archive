@@ -11,3 +11,6 @@ jpa와 mybatis 둘 다 platformtransactionmanager를 구현하는 transaction ma
 
 ![[Pasted image 20231201160309.png]]
 
+![[Pasted image 20231201160418.png]]
+
+insert 시에 강제로 예외를 터트리로 로그를 확인

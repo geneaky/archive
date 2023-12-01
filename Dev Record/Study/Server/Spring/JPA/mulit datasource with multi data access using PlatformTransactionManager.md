@@ -5,4 +5,5 @@
 ex)
 
 
-슾
+jpa와 mybatis 둘 다 platformtransactionmanager를 구현하는 transaction manager를 사용하기 때문에 jpa용 transaction manager 하나를 등록해서 사용해보았다.
+

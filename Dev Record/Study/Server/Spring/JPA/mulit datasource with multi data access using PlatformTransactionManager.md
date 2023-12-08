@@ -8,9 +8,12 @@
 1. @Transactional에서 transaction manager를 지정하지 않은 경우
 	![[Pasted image 20231208142726.png]]
 
-2. mybatis용 transaction manager에서 jpa를 사용한 경우
+2. mybatis용 transaction manager에서 jpa와 함께 사용한 경우
 	![[Pasted image 20231208142831.png]]
-	> jpa 동작을 처리하기 위한 persistence context를 열수 없어서 
+	> jpa 동작을 처리하기 위한 persistence context를 열수 없어서 예외 발생
+	
+3. jpa용 transaction manager를 mybatis와 함께 사용한 경우
+	
 
 
 

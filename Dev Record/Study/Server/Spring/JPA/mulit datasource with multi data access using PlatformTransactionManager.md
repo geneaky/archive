@@ -17,7 +17,7 @@
 	
 3. jpa용 transaction manager를 mybatis와 함께 사용한 경우
 	![[Pasted image 20231208143325.png]]
-	
+	jpa
 
 
 ##### jpa와 mybatis 둘 다 platformtransactionmanager를 구현하는 transaction manager를 사용하기 때문에 jpa용 transaction manager 하나를 등록해서 사용해보았다.

@@ -5,6 +5,9 @@
 
 ##### 실험 결과
 
+![[Pasted image 20231208143257.png]]
+
+
 1. @Transactional에서 transaction manager를 지정하지 않은 경우
 	![[Pasted image 20231208142726.png]]
 
@@ -13,8 +16,8 @@
 	> jpa 동작을 처리하기 위한 persistence context를 열수 없어서 예외 발생
 	
 3. jpa용 transaction manager를 mybatis와 함께 사용한 경우
+	![[Pasted image 20231208143325.png]]
 	
-
 
 
 ##### jpa와 mybatis 둘 다 platformtransactionmanager를 구현하는 transaction manager를 사용하기 때문에 jpa용 transaction manager 하나를 등록해서 사용해보았다.

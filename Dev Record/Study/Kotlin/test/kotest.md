@@ -8,4 +8,4 @@ kotest는 여러가지 [test style](https://kotest.io/docs/framework/testing-sty
 
 
 
-1. 한 개의 테스트를 여러번 실행시키고 싶은 경우 test case 
+1. 한 개의 테스트를 여러번 실행시키고 싶은 경우 [[test case config]]로 지정하면 된다.

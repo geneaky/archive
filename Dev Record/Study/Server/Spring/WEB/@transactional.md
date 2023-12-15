@@ -12,7 +12,7 @@
 
 하나의 트랜잭션에서 runtime exception을 던지고 try catch로 바로 잡으면 해당 트랜잭션 정상처리 함
 runtime exception이 현재 트랜잭션을 뚫고 나가야 외부 트랜잭션을 구성하고 있는 프록시에게 닿기 때문
-
+-> 그래서 public method에 @Transactional을 붙여서 트랜잭션 함수로 만들고 나면 
 
 
 

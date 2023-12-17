@@ -25,4 +25,4 @@ docker daemon이 실행되면 기본적으로 bridge, host, none 네트워크가
 
 1. containers in same network
 
-	- 같은 퍅
+	- 같은 virtual network로 묶인 컨테이너간 통신시 각 컨테이너의 서비스명이 hostname에 대응된다 때

@@ -23,6 +23,6 @@ docker daemon이 실행되면 기본적으로 bridge, host, none 네트워크가
   * `overlay` : 여러 호스트에 분산되어 돌아가는 컨테이너들간 네트워킹을 위해 사용한다.
 
 
-1. containers in same network
+3. containers in same network
 
-	- 같은 virtual network로 묶인 컨테이너간 통신시 각 컨테이너의 서비스명이 hostname에 대응된다 때
+	- 같은 virtual network로 묶인 컨테이너간 통신시 각 컨테이너의 서비스명이 hostname에 대응된다, 때문에 컨테이너간 통신시 컨테이너명으로 url을 지정해주어 통신할 수 있는 것

@@ -1,1 +1,1 @@
-- mysql - java data type mapping : [참고]]
+- mysql - java data type mapping : [참고]()

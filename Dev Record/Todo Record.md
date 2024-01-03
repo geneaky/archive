@@ -1,1 +1,2 @@
-- mysql - java data type mapping : [참고]()
+- mysql - java data type mapping : [참고](https://dev.mysql.com/doc/connector-j/en/connector-j-reference-type-conversions.html)
+- 

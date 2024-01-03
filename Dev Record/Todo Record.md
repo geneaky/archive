@@ -1,4 +1,5 @@
 - mysql - java data type mapping : [참고](https://dev.mysql.com/doc/connector-j/en/connector-j-reference-type-conversions.html)
 - spring conditional on missing bean 
 - jpa column converter
+- component 조합 방식
 - 

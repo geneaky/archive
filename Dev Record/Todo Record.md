@@ -2,4 +2,5 @@
 - spring conditional on missing bean 
 - jpa column converter
 - component 조합 방식
+- jpa column default : [참고](https://gksdudrb922.tistory.com/279)
 - 

@@ -7,3 +7,4 @@
 - jpa persistence context를 mybatis가 공유하지 못함에 대하여
 - https://mycup.tistory.com/425 
 - repeatable_read transaction에서 주의 할점 -> read_committed로 변경 해서 해결한 부분
+- https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html datasour

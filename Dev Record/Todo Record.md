@@ -4,4 +4,4 @@
 - component 조합 방식
 - jpa column default : [참고](https://gksdudrb922.tistory.com/279)
 - entitymanager flush, clear vs jpa repository flush
-- jpa persistence context를 mybatisㄱ
+- jpa persistence context를 mybatis가 공유하지 못함

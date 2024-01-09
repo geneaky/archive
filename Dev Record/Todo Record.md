@@ -5,3 +5,4 @@
 - jpa column default : [참고](https://gksdudrb922.tistory.com/279)
 - entitymanager flush, clear vs jpa repository flush
 - jpa persistence context를 mybatis가 공유하지 못함에 대하여
+- https://mycup.tistory.com/425 

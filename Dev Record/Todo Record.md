@@ -6,3 +6,4 @@
 - entitymanager flush, clear vs jpa repository flush
 - jpa persistence context를 mybatis가 공유하지 못함에 대하여
 - https://mycup.tistory.com/425 
+- re

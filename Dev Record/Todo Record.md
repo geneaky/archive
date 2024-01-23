@@ -8,3 +8,5 @@
 - https://mycup.tistory.com/425 
 - repeatable_read transaction에서 주의 할점 -> read_committed로 변경 해서 해결한 부분
 - https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html datasource 등록시
+- spi pattern
+- 

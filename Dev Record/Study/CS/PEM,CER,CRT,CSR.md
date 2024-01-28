@@ -21,7 +21,7 @@ CRT는 cert약자로 pem 형식의 인증서를 의미하고, linux, unix계열�
 -----END CERTIFICATE-----
 ```
 구분이고
-(CER은 Windows에서 인증서 내보내기할때 사용하는 확장라로 pem형식의 인증서를 의미)
+(CER은 Windows에서 인증서 내보내기할때 사용하는 확장자로 pem형식의 인증서를 의미)
 
 CSR은 Certificate Signing Request의 약자로 인증기관에 인증서 발급 요청하는 ASN.1 형식 파일로
 이 안에 공개키 정보와 사용하는 알고리즘 정보가 들어있음

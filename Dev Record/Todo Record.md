@@ -10,4 +10,6 @@
 - https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html datasource 등록시
 - spi pattern
 - component 조합으로 비즈니스 로직 구성
-	- query형 feature의 경우 특정 화면에 fit한 응답 데이터가 많기 때문에 
+	- query형 feature의 경우 특정 화면에 fit한 응답 데이터가 많기 때문에 component로 뽑아도 재사용성이 높지 않음
+		- 그래서 entity나, 비즈니스 객체를 반환하는 경우에만 query component에 명시
+	- command형 feature의 경우 재사용성이 높고 의미를 내포하기 더 쉽고 간결해져서 자주 사용했음

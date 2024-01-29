@@ -9,4 +9,5 @@
 - repeatable_read transaction에서 주의 할점 -> read_committed로 변경 해서 해결한 부분
 - https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html datasource 등록시
 - spi pattern
-- 
+- component 조합으로 비즈니스 로직 구성
+	- query형 feature의 경우 특정 화면에 fit한 응답 데이터가 많기 때문에 

@@ -1,0 +1,1 @@
+bean definition은 스프링 컨테이너에서 관리되는 bean의 메타 데이터로 각 bean들의 bean definition은 어떤 클래스 

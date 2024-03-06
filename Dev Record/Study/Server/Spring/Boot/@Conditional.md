@@ -10,7 +10,7 @@ Condition을 구현한 구현체를 인자로 받으며 해당 구현채의 matc
 
 ![[Pasted image 20240306122308.png]]
 
-
+matches에 인자로 들어오는 ConditionContext, AnnotatedTypeMetadata 를 사용하여 resource값, 환경변수 정보, 애너테이션 정보등을 활용하며 빈 등록 조건을 설정할 수 있다.
 
 
 ![[Pasted image 20240306122415.png]]

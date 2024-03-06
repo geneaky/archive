@@ -8,14 +8,20 @@ Service Locator를 사용해 구현체를 가져와서 클라이언트가 구현
 
 [마틴 파울러 서비스 로케이터](https://martinfowler.com/articles/injection.html#UsingAServiceLocator)
 
-아래는 토비의 스프링에 나온 서비스 로케이터
+아래는 스프링을 사용했을때 서비스 로케이터 구현 방식
+
+handler interface 선언
 
 ![[Pasted image 20240306151417.png]]
+
+handler interface를 구현하는 구현체를 등록
 
 ![[Pasted image 20240306151441.png]]
 
 ![[Pasted image 20240306151458.png]]
 
+handler 구현체의 bean name으로 enum 생성
 ![[Pasted image 20240306151518.png]]
 
+locator를 사용해서 동적으로 필요한 핸들러를 사용
 ![[Pasted image 20240306151538.png]]

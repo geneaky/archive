@@ -31,7 +31,12 @@ core & common
 
 Data -> infra 모듈 관계 
 
-Data에서 명시된 interface를 구현하는 구현체가 db접근을 하는 경우 Data모듈에 해당 접근 로직과 
+Data에서 명시된 interface를 구현하는 구현체가 db접근을 하는 경우 Data모듈에 해당 접근 로직을 작성하고
+infra 접근에 대한 로직만 infra 모듈에서 구현을 한다.
+
+Server -> data 모듈 관계
+service레이어의 구현은 어디에 있어야하나?
+
 
 
 모듈 분리, 분리 기준, ddd

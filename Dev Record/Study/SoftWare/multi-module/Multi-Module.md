@@ -23,7 +23,9 @@ core & common
 ##### 멀미모튤 그룹 경계 나누기
 - Boot(Server) : 서버모듈(잦은변화) - batch, admin, api
 - Data(Domain) : 데이터모듈(+도메인) -  meata, user, chart
-- Infra : 연동모듈(큰변화) - 유관부서 및 업
+- Infra : 연동모듈(큰변화) - 유관부서 및 업체연동을 위한 모듈 vod, photo, billing
+- Cloud(System) : 클라우드(시스템)모듈(변화적음) - config, gateway, discovery, aws, gcp, azure
+
 
 모듈 분리, 분리 기준, ddd
 클린 아키텍처, 헥사고날아키텍처, 포트어댑터패턴

@@ -108,3 +108,6 @@ java 플랫폼 위에 경량 동작 , 높은 처리량을 달성, 사용하기 �
 startVirtualThread()
 ofVirtual()
 
+내부에서 스레드를 블록킹하더라도 성능하락없이 스레드 전환이됨 - 코루틴과의 차이점
+
+spring bean, yml로 버츄얼 스레드 사용 설정

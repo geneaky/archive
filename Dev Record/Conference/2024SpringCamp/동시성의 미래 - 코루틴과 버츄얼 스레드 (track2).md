@@ -79,7 +79,16 @@ default, io, main , unconfined가 있음
 ThreadLocal의 데이터를 코루틴에 전파하는 방법
 MDC: multi thread환경에서 로깅을 위한 .. 방식  thread에 저장됨
 
-코루틴용 slf4j gh
+코루틴용 slf4j 확장 추가해서 해결
+MDCContrext가 있음
+ThreadContextElement를 사용
+
+코루틴 정리
+비동기 작업을 동기 방식처럼 순차적 코드 작성
+결자ㅑㅇ 스레드로 대규모 듕시성 작업 효율
+구조적 동시성 계층 구조 명확히 정의 생명 주기 관리
+코루틴 컨텍스트를 사용해 실행환경 제어
+블로킹 환경에서 사요
 
 ##### 버추얼 스레드 
 

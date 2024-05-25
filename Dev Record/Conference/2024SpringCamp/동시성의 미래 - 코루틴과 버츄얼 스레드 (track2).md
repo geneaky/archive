@@ -120,4 +120,11 @@ jvm 레벨 경량 스레드로 적은 리소스로 대규모 동싷성 작업 �
 버추얼 스레드는 기존 스레드 api를 그대로 활용할 수 있도록 설계
 web mbc + virtual thread는 webflux 코루틴과 거의 비슷한 성능
 synchronized관련 piined 이슈 등 아직 성능을 100%로 내기 어려운 환경이 있어 리서치 필요
+##### 코루틴과 버추얼 스레드 통합 방안
+
+virtual thread
+
+scoped value
+
+structured concurrency : 코루틴의 구조적 동시성 같은 목적
 

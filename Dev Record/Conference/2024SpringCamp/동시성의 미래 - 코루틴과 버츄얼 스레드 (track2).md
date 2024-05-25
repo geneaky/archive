@@ -63,7 +63,12 @@ coroutineScope 예측가능하게 하기 쉬움
 
 구조적 동시성에서 예외를 다루는 방법: 모든 코루틴 취소
 coroutineScope: 내부 자식 코루틴에서 에러가 발생하면 모든 코루틴이 종료된다 > 트랜잭션 마냥 동작하네
-빌더내부에서 try catchfh q
+빌더내부에서 try catch로 복구하거나
+부모 코루틴 내부에 supervisorscope에서 처리하면 부모 코루틴으로 전파되지 않음
+
+nocancellable context: 다른 코루틴에서 예외가 발생하더라도 작업이 수행된다
+
+코루틴 컨텍스트: 콜
 
 ##### 버추얼 스레드 
 

@@ -127,4 +127,4 @@ virtual thread
 scoped value
 
 structured concurrency : 코루틴의 구조적 동시성 같은 목적
-
+동시 작업의 결과를 만들어내야 하는 경우

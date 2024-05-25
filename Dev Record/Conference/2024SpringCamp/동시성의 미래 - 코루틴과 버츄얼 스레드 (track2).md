@@ -18,10 +18,13 @@ thread pool을 사용하여 thread를 재사용하는 방식으로 동시성을 
 대표적 표준은 리액티브 스트림즈
 비동기 데이터 스트림 논블로킹 백프레셔에 대한 사양 제공
 prejcet reactor,
-실시간 뎅
+실시간 데이터 처리에 유연하게 개발 가능, 높은 트래픽 감당하는 시스템에서 유리했단 경험
+
+reactive stream core interface, protocol
+pub/sub
 
 
+##### 코틀린 코루틴
 
-- 코틀린 코루틴
-- 버추얼 스레드 
+##### 버추얼 스레드 
 

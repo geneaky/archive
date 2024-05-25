@@ -124,7 +124,8 @@ synchronized관련 piined 이슈 등 아직 성능을 100%로 내기 어려운 �
 
 virtual thread
 
-scoped value
+scoped value : 스레드간 데이터를 저장하고 공유한느 방법
+
 
 structured concurrency : 코루틴의 구조적 동시성 같은 목적
 동시 작업의 결과를 만들어내야 하는 경우

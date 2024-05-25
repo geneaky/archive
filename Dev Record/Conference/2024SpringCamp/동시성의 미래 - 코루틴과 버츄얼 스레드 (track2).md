@@ -126,7 +126,10 @@ virtual thread
 
 scoped value : 스레드간 데이터를 저장하고 공유한느 방법
 버추얼 스레드를 코루틴 디스패쳐로 변환
-
+runBlocking으로 감싸서 사용해도 버츄얼스레드라서 성능하락 없이 동기 방식 처리 가능
 
 structured concurrency : 코루틴의 구조적 동시성 같은 목적
 동시 작업의 결과를 만들어내야 하는 경우
+
+
+sse 실시간 주

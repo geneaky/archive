@@ -77,7 +77,9 @@ dispatchers : 코루틴이 실행되는 스레드를 결정, IO로 지정하면 
 default, io, main , unconfined가 있음
 
 ThreadLocal의 데이터를 코루틴에 전파하는 방법
-MDC
+MDC: multi thread환경에서 로깅을 위한 .. 방식  thread에 저장됨
+
+코루틴용 slf4j gh
 
 ##### 버추얼 스레드 
 

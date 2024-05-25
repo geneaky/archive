@@ -134,3 +134,7 @@ structured concurrency : 코루틴의 구조적 동시성 같은 목적
 
 sse 실시간 주식 시세 제공
 sse 활용
+
+코틀린 Flow 라이브 데이터 스트림 응답
+스트리밍 api 구현시
+

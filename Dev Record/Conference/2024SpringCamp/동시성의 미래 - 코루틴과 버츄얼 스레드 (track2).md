@@ -72,7 +72,12 @@ nocancellable context: 다른 코루틴에서 예외가 발생하더라도 작�
 
 코루틴 컨텍스트: 코루틴이 실행되는 환경을 제어하는 방법
 
-dispatchers : 코루틴이 실행되는 스레드를 결정, IO로 지정하면 IO작업에 최적화된 ㅋ
+dispatchers : 코루틴이 실행되는 스레드를 결정, IO로 지정하면 IO작업에 최적화된 방식으로 처리된다
+내부에 4개의 dispatcher가 있음
+default, io, main , unconfined가 있음
+
+ThreadLocal의 데이터를 코루틴에 전파하는 방법
+MDC
 
 ##### 버추얼 스레드 
 

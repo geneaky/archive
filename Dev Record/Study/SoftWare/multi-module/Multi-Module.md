@@ -49,11 +49,3 @@ data에서는 해당 이벤트를 받아서 data가 책임을 맡고있는 데�
 cloud 모듈과 server 모듈 관계
 
 
----
-
-
-
-모듈 분리, 분리 기준, ddd
-클린 아키텍처, 헥사고날아키텍처, 포트어댑터패턴
-usecase
-query, command

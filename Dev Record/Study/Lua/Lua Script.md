@@ -10,3 +10,6 @@ print(line)
 end
 ```
 ipairs 함수를 제공해주어 array를 쉽게 반복문 돌릴 수 있음
+
+- false, nil 둘 다 조건 판별시 부정으로 동작
+- 

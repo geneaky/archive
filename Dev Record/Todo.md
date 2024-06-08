@@ -3,3 +3,6 @@ bookchat module 분리
 2. 분리한 각 모듈의 버전 관련 정보 gradle.properties로 통일
 3. 분리 이후 배포 프로세스 변경 
 4. core-db, support-logging, core-broker 모듈 분리
+
+---
+

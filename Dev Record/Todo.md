@@ -10,4 +10,4 @@ bookchat module 분리
 - [ ] 채팅방 정보수정 api 버그(?) 수정
 - [ ] 사용자 정보 조회 api 수정
 - [ ] 채팅방 퇴장시 chatId, dispatchTime, targetUserId null로 fcm 발송되는거 확인
-- [ ] 
+- [ ] 사용자 채팅방 조회 api 최신 채팅순으로 desc 정렬 default

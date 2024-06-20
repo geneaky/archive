@@ -11,6 +11,7 @@ bookchat module 분리
 		- [ ] service interface(usecase)로 대체될 새로운 구현체가 생기기 전까지는 interface로 뽑지 않아도 괜찮다고 생각함
 	- [ ] service layer에서 사용되는 파라미터나 응답 값에 대한 in/out port로 지정하는건 강결합을 끊어낼 수 있어서 좋다고 생각함
 		- [ ] in은 command/query로 구분
-		- [ ] 
+		- [ ] out은 도메인을 반환해도 괜찮고 별도로 만들어도 괜찮은듯
+			- [ ] 도메인을 외부로 내보내도 g
 	- [ ] controller에서 사용되는 request/response는 api명세로 가장 변화가 많은 부분이니 이부분도 별도로 뽑아서 사용
 	- [ ] 

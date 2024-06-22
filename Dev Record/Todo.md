@@ -44,6 +44,7 @@ if(resopnse.fail()) {
 		transfer.rollback();
 		conn.commit();
 	}catch() {
+		throw e
 	}
 }
 

@@ -23,9 +23,12 @@ try {
 }catch() {
 }
 //trx end
+response = null;
 try {
-
+	response = firm_bank_api_call();
+}catch() {
+	transfer_rollback();
 }
-firm_bank_api_call();
+
 
 ```

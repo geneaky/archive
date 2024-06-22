@@ -19,6 +19,7 @@ bookchat module 분리
 //trx start
 try {
 	transfer.success();
+	
 	conn.commit();
 }catch() {
 }

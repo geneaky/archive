@@ -19,6 +19,13 @@ bookchat module 분리
 //trx start
 try {
 	transfer.success();
-	conn.commit();kjj
+	conn.commit();
+}catch() {
 }
+//trx end
+try {
+
+}
+firm_bank_api_call();
+
 ```

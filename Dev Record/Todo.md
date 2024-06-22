@@ -27,7 +27,12 @@ response = null;
 try {
 	response = firm_bank_api_call();
 }catch() {
-	transfer_rollback();
+	try {
+		transfer.rollback();
+		conn.commit();
+	}catch() {
+	   throw e;
+	}
 }
 
 

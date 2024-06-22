@@ -35,5 +35,17 @@ try {
 	}
 }
 
+if(resonse.ok()) {
+	return OK;
+}
+
+if(resopnse.fail()) {
+	try {
+		transfer.rollback();
+		conn.commit();
+	}catch() {
+	}
+}
+
 
 ```

@@ -15,4 +15,5 @@ formatting action에서는 `reformat file` 을 제외하고 모두 체크
 ideavimrc에 개인 설정 지정
 
 ##### split 설정
-editor split 설정 및 
+editor split 설정 및 editor 창 이동 단축키 설정
+

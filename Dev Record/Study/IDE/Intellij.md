@@ -8,4 +8,11 @@ indent, tab size 2로 변경
 ##### save action 
 
 genearal에서는 `save action on shortcut` 을 제외하고 모두 체크
-formatting action에서는 
+formatting action에서는 `reformat file` 을 제외하고 모두 체크
+
+
+###### ideavim
+ideavimrc에 개인 설정 지정
+
+##### split 설정
+editor split 설정 및 

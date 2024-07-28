@@ -9,3 +9,6 @@
 
 Email만 value object로 추출한 이유가 뭘까?
 User (name, email, pwd)로 value obejct로 추출해도 동등성 비교 로직 작성이 가능하지 않은가?
+-> 객체지향으로 작성한건가 싶네
+
+

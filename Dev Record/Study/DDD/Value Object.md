@@ -7,3 +7,6 @@
 추상회된 정보에 대한 검증도 value object 자체에서 진행한다
 -> 이건 그냥 객체지향의 특성과 같음
 
+Email만 value object로 추출한 이유가 뭘까?
+User (name, email, pwd)로 value obejct로 추출해도되는거 아닌가?
+email 자체적으로 

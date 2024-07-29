@@ -11,3 +11,5 @@
 [[Entity]]
 [[Value Object]]
 
+ %%
+```

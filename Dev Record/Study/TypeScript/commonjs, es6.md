@@ -34,4 +34,10 @@ console.log(a, b, c)
 ##### ES6
 현재의 표준 스펙이라고 생각하면됨
 
-import, from, export, default 모듈 전용 관리 키워드를 가지고 있음 -> 가독성이 
+import, from, export, default 모듈 전용 관리 키워드를 가지고 있음 -> 가독성이 더 좋음
+비동기 방식으로 동작하고 , 모듈에서 실제로 사용되는 부분만 불러오기 때문에 메모리 사용에 이점이 있다
+
+``` js
+//export
+
+```

@@ -2,4 +2,4 @@
 
 ##### CommonJS
 
-module이라는 객체
+module이라는 객체 내 exports라는 키를 가진 프로퍼티를 사용해 함수나, 변수를 내보낼 수 있음

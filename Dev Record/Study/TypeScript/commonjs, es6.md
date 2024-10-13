@@ -37,7 +37,7 @@ console.log(a, b, c)
 import, from, export, default 모듈 전용 관리 키워드를 가지고 있음 -> 가독성이 더 좋음
 비동기 방식으로 동작하고 , 모듈에서 실제로 사용되는 부분만 불러오기 때문에 메모리 사용에 이점이 있다
 
-default는 하나의 객체만 내보내는 방식, 하나만 
+default는 하나의 객체만 내보내는 방식, 하나만 내보내기때문에 alias없이 원하는 이름으로 import 가능하다
 
 ``` js
 //export
@@ -58,4 +58,20 @@ import { a, b, c as d } from "./es6-export.js"
 console.log(a, b, d)
 
 //default export
+const a = 3
+const b = () => console.log("b")
+class C {
+    constructor(name) {
+        this.name = name
+    }
+}
+const c = new C("c")
+
+export default c
+
+//import
+import d from "./es6-export.js"
+
+console.log(d)
 ```
+

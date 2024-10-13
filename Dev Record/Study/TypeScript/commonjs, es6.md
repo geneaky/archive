@@ -51,11 +51,8 @@ const c = new C("c")
 export { a, b, c }
 
 //import
-import { a, b, c } from "./es6-export.js"
+import { a, b, c as d } from "./es6-export.js"
 
-console.log(a, b, c)
-
-
-//named export
+console.log(a, b, d)
 
 ```

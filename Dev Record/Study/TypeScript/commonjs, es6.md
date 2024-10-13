@@ -39,5 +39,23 @@ import, from, export, default 모듈 전용 관리 키워드를 가지고 있음
 
 ``` js
 //export
+const a = 3
+const b = () => console.log("b")
+class C {
+    constructor(name) {
+        this.name = name
+    }
+}
+const c = new C("c")
+
+export { a, b, c }
+
+//import
+import { a, b, c } from "./es6-export.js"
+
+console.log(a, b, c)
+
+
+//named export
 
 ```

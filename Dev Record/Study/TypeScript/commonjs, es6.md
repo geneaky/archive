@@ -32,3 +32,6 @@ console.log(a, b, c)
 
 
 ##### ES6
+현재의 표준 스펙이라고 생각하면됨
+
+import, from, export, default 모듈 전용 관리 키워드를 가지고 있음 -> 가독성이 

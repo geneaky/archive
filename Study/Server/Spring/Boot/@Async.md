@@ -12,11 +12,9 @@ AsyncExecutionAspectSupport에 실행됩니다.
 - concurrencyLimit 프로퍼티를 사용해서 요청 수 제한 (default는 unlimit)
 - 스레드를 재사요하지 않아서 스레드 생성, 작업할당에 오버헤드가 있음
 
-
 ### multiple thread pool
 
 스레드 풀을 여러개 등록하는 경우 하나의 @Primary 스레드 풀을 @Bean으로 등록 후 나머지 스레드 풀을 빈으로 등록해서 @Async 실행시 애너테이션 안에 threadPoolExecutor의 이름을 지정하여 해당 스레드 풀을 사용하여 비동기 동작하도록 할 수 있다
-
 
 ### ThreadPoolExecutor
 

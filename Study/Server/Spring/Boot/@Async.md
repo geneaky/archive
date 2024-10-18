@@ -24,5 +24,3 @@ queue size는 queue capacity 옵션으로 설정할 수 있다
 queue size보다 요청 수가 많아진 경우라면 pool size를 늘리는데 max pool size만큼 늘어날 수 있다.
 
 이후 요청수가 적어진다면 생성한 스레드 만큼 pool size를 유지하는 것은 낭비이므로 keepAliveTime만큼 대기 후 스레드를 정리해서 다시 core pool size를 유지하게 된다
-
-

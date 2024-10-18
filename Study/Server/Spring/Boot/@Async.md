@@ -13,9 +13,13 @@ AsyncExecutionAspectSupport에 실행됩니다.
 - 스레드를 재사요하지 않아서 스레드 생성, 작업할당에 오버헤드가 있음
 
 
-@Async 애너테이션 안에 threadPoolExecutor의 이름을 지정하여 해당 threadPool을 사용하여 비동기 동작하도록 할 수 있다
-
-
 ### multiple thread pool
 
-스레드 
+스레드 풀을 여러개 등록하는 경우 하나의 @Primary 스레드 풀을 @Bean으로 등록 후 나머지 스레드 풀을 빈으로 등록해서 @Async 실행시 애너테이션 안에 threadPoolExecutor의 이름을 지정하여 해당 스레드 풀을 사용하여 비동기 동작하도록 할 수 있다
+
+
+### ThreadPoolExecutor
+
+기본적으로 정해진 core pool size만큼 평소 유지가 되지만 요청 수 대비 스레드 수가 부족해지면
+내부 
+
